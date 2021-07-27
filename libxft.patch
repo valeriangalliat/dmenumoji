@@ -1,0 +1,17 @@
+diff --git a/configure.ac b/configure.ac
+index a05c9a2..aa71407 100644
+--- a/configure.ac
++++ b/configure.ac
+@@ -38,12 +38,6 @@ AM_INIT_AUTOMAKE([foreign dist-bzip2])
+ # Initialize libtool
+ AC_PROG_LIBTOOL
+ 
+-# Require X.Org macros 1.8 or later for MAN_SUBSTS set by XORG_MANPAGE_SECTIONS
+-m4_ifndef([XORG_MACROS_VERSION],
+-          [m4_fatal([must install xorg-macros 1.8 or later before running autoconf/autogen])])
+-XORG_MACROS_VERSION(1.8)
+-XORG_DEFAULT_OPTIONS
+-
+ # Set library version for Xft.h from package version set in AC_INIT
+ # copied from PACKAGE_VERSION_* settings in XORG_VERSION
+ AC_CONFIG_HEADERS([include/X11/Xft/Xft.h])

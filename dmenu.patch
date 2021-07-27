@@ -1,0 +1,53 @@
+diff --git a/config.def.h b/config.def.h
+index 1edb647..b55c45c 100644
+--- a/config.def.h
++++ b/config.def.h
+@@ -4,7 +4,8 @@
+ static int topbar = 1;                      /* -b  option; if 0, dmenu appears at bottom     */
+ /* -fn option overrides fonts[0]; default X11 font or font set */
+ static const char *fonts[] = {
+-	"monospace:size=10"
++	"monospace:size=10",
++	"emoji:size=10"
+ };
+ static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
+ static const char *colors[SchemeLast][2] = {
+diff --git a/config.mk b/config.mk
+index 05d5a3e..05300a6 100644
+--- a/config.mk
++++ b/config.mk
+@@ -13,8 +13,8 @@ XINERAMALIBS  = -lXinerama
+ XINERAMAFLAGS = -DXINERAMA
+ 
+ # freetype
+-FREETYPELIBS = -lfontconfig -lXft
+-FREETYPEINC = /usr/include/freetype2
++FREETYPELIBS = -lfontconfig -lfreetype -lXrender -lX11 -L../libxft/src/.libs -l:libXft.a
++FREETYPEINC = /usr/include/freetype2 -I$(PWD)/../libxft/include
+ # OpenBSD (uncomment)
+ #FREETYPEINC = $(X11INC)/freetype2
+ 
+diff --git a/drw.c b/drw.c
+index 4cdbcbe..c1c265c 100644
+--- a/drw.c
++++ b/drw.c
+@@ -133,19 +133,6 @@ xfont_create(Drw *drw, const char *fontname, FcPattern *fontpattern)
+ 		die("no font specified.");
+ 	}
+ 
+-	/* Do not allow using color fonts. This is a workaround for a BadLength
+-	 * error from Xft with color glyphs. Modelled on the Xterm workaround. See
+-	 * https://bugzilla.redhat.com/show_bug.cgi?id=1498269
+-	 * https://lists.suckless.org/dev/1701/30932.html
+-	 * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=916349
+-	 * and lots more all over the internet.
+-	 */
+-	FcBool iscol;
+-	if(FcPatternGetBool(xfont->pattern, FC_COLOR, 0, &iscol) == FcResultMatch && iscol) {
+-		XftFontClose(drw->dpy, xfont);
+-		return NULL;
+-	}
+-
+ 	font = ecalloc(1, sizeof(Fnt));
+ 	font->xfont = xfont;
+ 	font->pattern = pattern;

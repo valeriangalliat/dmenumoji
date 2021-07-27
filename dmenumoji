@@ -1,0 +1,16 @@
+#!/bin/sh -e
+
+PROGDIR=$(dirname "$(readlink -f "$0")")
+
+emoji=$(cat "$PROGDIR/emoji.txt" | dmenu -i -l 30 | sed 's/ .*//')
+
+if [ -z "$emoji" ]; then
+    exit
+fi
+
+if [ "$1" = copy ]; then
+    printf "$emoji" | xclip -selection clipboard
+    echo "Copied $emoji to clipboard!"
+else
+    xdotool type -delay 100 "$emoji"
+fi
