@@ -5,6 +5,8 @@
 [dmenu]: https://tools.suckless.org/dmenu/
 [libxft-bgra]: https://aur.archlinux.org/packages/libxft-bgra/
 
+<img src="preview.png" align="left">
+
 ## Overview
 
 dmeu uses [libXft] to render fonts, which crashes on BGRA glyphs (color
