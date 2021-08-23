@@ -24,6 +24,5 @@ libxft-bgra.patch:
 	curl -o $@ https://gitlab.freedesktop.org/xorg/lib/libxft/-/merge_requests/1.patch
 
 emoji.txt:
-	curl 'https://unicode.org/emoji/charts/full-emoji-list.html' \
-		| sed -En "s/.*class='(chars|name)'>([^<]*)<.*/\2/p" \
-		| sed 'N;s/\n/ /' > $@
+	curl https://raw.githubusercontent.com/fdw/rofimoji/main/src/picker/data/emojis.csv \
+		| sed -E 's,<\/?small>,,g' > $@
