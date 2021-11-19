@@ -1,4 +1,4 @@
-all: dmenu/dmenu emoji.txt
+all: dmenu/dmenu
 
 dmenu/dmenu: dmenu libxft/src/.libs/libXft.a
 	make -C $<
