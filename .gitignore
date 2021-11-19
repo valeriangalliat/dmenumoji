@@ -1,3 +1,6 @@
 /dmenu
 /libxft
 /libxft-bgra.patch
+/emojilib
+/node_modules
+/package-lock.json

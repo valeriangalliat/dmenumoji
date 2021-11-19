@@ -4,11 +4,10 @@
 😁 beaming face with smiling eyes (eye, face, grin, smile)
 😆 grinning squinting face (face, laugh, mouth, satisfied, smile)
 😅 grinning face with sweat (cold, face, open, smile, sweat)
-🤣 rolling on the floor laughing (face, floor, laugh, rolling)
+🤣 rolling on the floor laughing (face, floor, laugh, rofl, rolling, rotfl)
 😂 face with tears of joy (face, joy, laugh, tear)
 🙂 slightly smiling face (face, smile)
 🙃 upside-down face (face, upside-down)
-🫠 melting face
 😉 winking face (face, wink)
 😊 smiling face with smiling eyes (blush, eye, face, smile)
 😇 smiling face with halo (angel, face, fantasy, halo, innocent)
@@ -17,7 +16,7 @@
 🤩 star-struck (eyes, face, grinning, star)
 😘 face blowing a kiss (face, kiss)
 😗 kissing face (face, kiss)
-☺ smiling face (face, outlined, relaxed, smile)
+☺️ smiling face (face, outlined, relaxed, smile)
 😚 kissing face with closed eyes (closed, eye, face, kiss)
 😙 kissing face with smiling eyes (eye, face, kiss, smile)
 🥲 smiling face with tear (grateful, proud, relieved, smiling, tear, touched)
@@ -27,19 +26,15 @@
 🤪 zany face (eye, goofy, large, small)
 😝 squinting face with tongue (eye, face, horrible, taste, tongue)
 🤑 money-mouth face (face, money, mouth)
-🤗 smiling face with open hands (face, hug, hugging)
+🤗 hugging face (face, hug, hugging, open hands, smiling face, smiling face with open hands)
 🤭 face with hand over mouth (whoops)
-🫢 face with open eyes and hand over mouth
-🫣 face with peeking eye
 🤫 shushing face (quiet, shush)
 🤔 thinking face (face, thinking)
-🫡 saluting face
 🤐 zipper-mouth face (face, mouth, zipper)
 🤨 face with raised eyebrow (distrust, skeptic)
 😐 neutral face (deadpan, face, meh, neutral)
 😑 expressionless face (expressionless, face, inexpressive, meh, unexpressive)
 😶 face without mouth (face, mouth, quiet, silent)
-🫥 dotted line face
 😶‍🌫️ face in clouds
 😏 smirking face (face, smirk)
 😒 unamused face (face, unamused, unhappy)
@@ -49,19 +44,19 @@
 🤥 lying face (face, lie, pinocchio)
 😌 relieved face (face, relieved)
 😔 pensive face (dejected, face, pensive)
-😪 sleepy face (face, sleep)
+😪 sleepy face (face, good night, sleep)
 🤤 drooling face (drooling, face)
-😴 sleeping face (face, sleep, zzz)
+😴 sleeping face (face, good night, sleep, ZZZ)
 😷 face with medical mask (cold, doctor, face, mask, sick)
 🤒 face with thermometer (face, ill, sick, thermometer)
 🤕 face with head-bandage (bandage, face, hurt, injury)
 🤢 nauseated face (face, nauseated, vomit)
-🤮 face vomiting (sick, vomit)
+🤮 face vomiting (puke, sick, vomit)
 🤧 sneezing face (face, gesundheit, sneeze)
 🥵 hot face (feverish, heat stroke, hot, red-faced, sweating)
 🥶 cold face (blue-faced, cold, freezing, frostbite, icicles)
 🥴 woozy face (dizzy, intoxicated, tipsy, uneven eyes, wavy mouth)
-😵 face with crossed-out eyes (dizzy, face)
+😵 knocked-out face (crossed-out eyes, dead, face, face with crossed-out eyes, knocked out)
 😵‍💫 face with spiral eyes
 🤯 exploding head (mind blown, shocked)
 🤠 cowboy hat face (cowboy, cowgirl, face, hat)
@@ -69,18 +64,16 @@
 🥸 disguised face (disguise, face, glasses, incognito, nose)
 😎 smiling face with sunglasses (bright, cool, face, sun, sunglasses)
 🤓 nerd face (face, geek, nerd)
-🧐 face with monocle (stuffy)
+🧐 face with monocle (face, monocle, stuffy)
 😕 confused face (confused, face, meh)
-🫤 face with diagonal mouth
 😟 worried face (face, worried)
 🙁 slightly frowning face (face, frown)
-☹ frowning face (face, frown)
+☹️ frowning face (face, frown)
 😮 face with open mouth (face, mouth, open, sympathy)
 😯 hushed face (face, hushed, stunned, surprised)
 😲 astonished face (astonished, face, shocked, totally)
 😳 flushed face (dazed, face, flushed)
 🥺 pleading face (begging, mercy, puppy eyes)
-🥹 face holding back tears
 😦 frowning face with open mouth (face, frown, mouth, open)
 😧 anguished face (anguished, face)
 😨 fearful face (face, fear, fearful, scared)
@@ -97,13 +90,13 @@
 😫 tired face (face, tired)
 🥱 yawning face (bored, tired, yawn)
 😤 face with steam from nose (face, triumph, won)
-😡 pouting face (angry, face, mad, pouting, rage, red)
-😠 angry face (angry, face, mad)
+😡 pouting face (enraged face, angry, enraged, face, mad, pouting, rage, red)
+😠 angry face (anger, angry, face, mad)
 🤬 face with symbols on mouth (swearing)
 😈 smiling face with horns (face, fairy tale, fantasy, horns, smile)
 👿 angry face with horns (demon, devil, face, fantasy, imp)
 💀 skull (death, face, fairy tale, monster)
-☠ skull and crossbones (crossbones, death, face, monster, skull)
+☠️ skull and crossbones (crossbones, death, face, monster, skull)
 💩 pile of poo (dung, face, monster, poo, poop)
 🤡 clown face (clown, face)
 👹 ogre (creature, face, fairy tale, fantasy, monster)
@@ -134,11 +127,11 @@
 💞 revolving hearts (revolving)
 💕 two hearts (love)
 💟 heart decoration (heart)
-❣ heart exclamation (exclamation, mark, punctuation)
+❣️ heart exclamation (exclamation, mark, punctuation)
 💔 broken heart (break, broken)
 ❤️‍🔥 heart on fire
 ❤️‍🩹 mending heart
-❤ red heart (heart)
+❤️ red heart (heart)
 🧡 orange heart (orange)
 💛 yellow heart (yellow)
 💚 green heart (green)
@@ -153,39 +146,33 @@
 💫 dizzy (comic, star)
 💦 sweat droplets (comic, splashing, sweat)
 💨 dashing away (comic, dash, running)
-🕳 hole ()
+🕳️ hole
 💣 bomb (comic)
 💬 speech balloon (balloon, bubble, comic, dialog, speech)
 👁️‍🗨️ eye in speech bubble
-🗨 left speech bubble (dialog, speech)
-🗯 right anger bubble (angry, balloon, bubble, mad)
+🗨️ left speech bubble (balloon, bubble, dialog, speech)
+🗯️ right anger bubble (angry, balloon, bubble, mad)
 💭 thought balloon (balloon, bubble, comic, thought)
-💤 zzz (comic, sleep)
+💤 zzz (comic, good night, sleep, ZZZ)
 👋 waving hand (hand, wave, waving)
 🤚 raised back of hand (backhand, raised)
-🖐 hand with fingers splayed (finger, hand, splayed)
-✋ raised hand (hand)
+🖐️ hand with fingers splayed (finger, hand, splayed)
+✋ raised hand (hand, high 5, high five)
 🖖 vulcan salute (finger, hand, spock, vulcan)
-🫱 rightwards hand
-🫲 leftwards hand
-🫳 palm down hand
-🫴 palm up hand
 👌 OK hand (hand, OK)
 🤌 pinched fingers (fingers, hand gesture, interrogation, pinched, sarcastic)
 🤏 pinching hand (small amount)
-✌ victory hand (hand, v, victory)
+✌️ victory hand (hand, v, victory)
 🤞 crossed fingers (cross, finger, hand, luck)
-🫰 hand with index finger and thumb crossed
 🤟 love-you gesture (hand, ILY)
 🤘 sign of the horns (finger, hand, horns, rock-on)
-🤙 call me hand (call, hand)
+🤙 call me hand (call, hand, hang loose, Shaka)
 👈 backhand index pointing left (backhand, finger, hand, index, point)
 👉 backhand index pointing right (backhand, finger, hand, index, point)
 👆 backhand index pointing up (backhand, finger, hand, point, up)
 🖕 middle finger (finger, hand)
 👇 backhand index pointing down (backhand, down, finger, hand, point)
-☝ index pointing up (finger, hand, index, point, up)
-🫵 index pointing at the viewer
+☝️ index pointing up (finger, hand, index, point, up)
 👍 thumbs up (+1, hand, thumb, up)
 👎 thumbs down (-1, down, hand, thumb)
 ✊ raised fist (clenched, fist, hand, punch)
@@ -194,12 +181,11 @@
 🤜 right-facing fist (fist, rightwards)
 👏 clapping hands (clap, hand)
 🙌 raising hands (celebration, gesture, hand, hooray, raised)
-🫶 heart hands
 👐 open hands (hand, open)
 🤲 palms up together (prayer)
 🤝 handshake (agreement, hand, meeting, shake)
-🙏 folded hands (ask, hand, please, pray, thanks)
-✍ writing hand (hand, write)
+🙏 folded hands (ask, hand, high 5, high five, please, pray, thanks)
+✍️ writing hand (hand, write)
 💅 nail polish (care, cosmetics, manicure, nail, polish)
 🤳 selfie (camera, phone)
 💪 flexed biceps (biceps, comic, flex, muscle)
@@ -216,80 +202,79 @@
 🦷 tooth (dentist)
 🦴 bone (skeleton)
 👀 eyes (eye, face)
-👁 eye (body)
+👁️ eye (body)
 👅 tongue (body)
 👄 mouth (lips)
-🫦 biting lip
 👶 baby (young)
 🧒 child (gender-neutral, unspecified gender, young)
 👦 boy (young)
 👧 girl (Virgo, young, zodiac)
 🧑 person (adult, gender-neutral, unspecified gender)
-👱 person: blond hair (blond, blond-haired person, hair)
+👱 person blond hair (blond, blond-haired person, hair, person: blond hair)
 👨 man (adult)
-🧔 person: beard (beard, man, man: beard, person)
-🧔‍♂️ man: beard
-🧔‍♀️ woman: beard
-👨‍🦰 man: red hair
-👨‍🦱 man: curly hair
-👨‍🦳 man: white hair
-👨‍🦲 man: bald
+🧔 person beard (beard, person, person: beard)
+🧔‍♂️ man beard
+🧔‍♀️ woman beard
+👨‍🦰 man red hair
+👨‍🦱 man curly hair
+👨‍🦳 man white hair
+👨‍🦲 man bald
 👩 woman (adult)
-👩‍🦰 woman: red hair
-🧑‍🦰 person: red hair
-👩‍🦱 woman: curly hair
-🧑‍🦱 person: curly hair
-👩‍🦳 woman: white hair
-🧑‍🦳 person: white hair
-👩‍🦲 woman: bald
-🧑‍🦲 person: bald
-👱‍♀️ woman: blond hair
-👱‍♂️ man: blond hair
+👩‍🦰 woman red hair
+🧑‍🦰 person red hair
+👩‍🦱 woman curly hair
+🧑‍🦱 person curly hair
+👩‍🦳 woman white hair
+🧑‍🦳 person white hair
+👩‍🦲 woman bald
+🧑‍🦲 person bald
+👱‍♀️ woman blond hair (blond-haired woman, blonde, hair, woman, woman: blond hair)
+👱‍♂️ man blond hair (blond, blond-haired man, hair, man, man: blond hair)
 🧓 older person (adult, gender-neutral, old, unspecified gender)
 👴 old man (adult, man, old)
 👵 old woman (adult, old, woman)
 🙍 person frowning (frown, gesture)
-🙍‍♂️ man frowning
-🙍‍♀️ woman frowning
+🙍‍♂️ man frowning (frowning, gesture, man)
+🙍‍♀️ woman frowning (frowning, gesture, woman)
 🙎 person pouting (gesture, pouting)
-🙎‍♂️ man pouting
-🙎‍♀️ woman pouting
+🙎‍♂️ man pouting (gesture, man, pouting)
+🙎‍♀️ woman pouting (gesture, pouting, woman)
 🙅 person gesturing NO (forbidden, gesture, hand, prohibited)
-🙅‍♂️ man gesturing NO
-🙅‍♀️ woman gesturing NO
+🙅‍♂️ man gesturing NO (forbidden, gesture, hand, man, prohibited)
+🙅‍♀️ woman gesturing NO (forbidden, gesture, hand, prohibited, woman)
 🙆 person gesturing OK (gesture, hand, OK)
-🙆‍♂️ man gesturing OK
-🙆‍♀️ woman gesturing OK
+🙆‍♂️ man gesturing OK (gesture, hand, man, OK)
+🙆‍♀️ woman gesturing OK (gesture, hand, OK, woman)
 💁 person tipping hand (hand, help, information, sassy, tipping)
-💁‍♂️ man tipping hand
-💁‍♀️ woman tipping hand
+💁‍♂️ man tipping hand (man, sassy, tipping hand)
+💁‍♀️ woman tipping hand (sassy, tipping hand, woman)
 🙋 person raising hand (gesture, hand, happy, raised)
-🙋‍♂️ man raising hand
-🙋‍♀️ woman raising hand
+🙋‍♂️ man raising hand (gesture, man, raising hand)
+🙋‍♀️ woman raising hand (gesture, raising hand, woman)
 🧏 deaf person (accessibility, deaf, ear, hear)
-🧏‍♂️ deaf man
-🧏‍♀️ deaf woman
+🧏‍♂️ deaf man (deaf, man)
+🧏‍♀️ deaf woman (deaf, woman)
 🙇 person bowing (apology, bow, gesture, sorry)
-🙇‍♂️ man bowing
-🙇‍♀️ woman bowing
+🙇‍♂️ man bowing (apology, bowing, favor, gesture, man, sorry)
+🙇‍♀️ woman bowing (apology, bowing, favor, gesture, sorry, woman)
 🤦 person facepalming (disbelief, exasperation, face, palm)
-🤦‍♂️ man facepalming
-🤦‍♀️ woman facepalming
+🤦‍♂️ man facepalming (disbelief, exasperation, facepalm, man)
+🤦‍♀️ woman facepalming (disbelief, exasperation, facepalm, woman)
 🤷 person shrugging (doubt, ignorance, indifference, shrug)
-🤷‍♂️ man shrugging
-🤷‍♀️ woman shrugging
-🧑‍⚕️ health worker
-👨‍⚕️ man health worker
-👩‍⚕️ woman health worker
+🤷‍♂️ man shrugging (doubt, ignorance, indifference, man, shrug)
+🤷‍♀️ woman shrugging (doubt, ignorance, indifference, shrug, woman)
+🧑‍⚕️ health worker (doctor, healthcare, nurse, therapist)
+👨‍⚕️ man health worker (doctor, healthcare, man, nurse, therapist)
+👩‍⚕️ woman health worker (doctor, healthcare, nurse, therapist, woman)
 🧑‍🎓 student (graduate)
 👨‍🎓 man student (graduate, man, student)
 👩‍🎓 woman student (graduate, student, woman)
 🧑‍🏫 teacher (instructor, professor)
 👨‍🏫 man teacher (instructor, man, professor, teacher)
 👩‍🏫 woman teacher (instructor, professor, teacher, woman)
-🧑‍⚖️ judge
-👨‍⚖️ man judge
-👩‍⚖️ woman judge
+🧑‍⚖️ judge (justice, scales)
+👨‍⚖️ man judge (judge, justice, man, scales)
+👩‍⚖️ woman judge (judge, justice, scales, woman)
 🧑‍🌾 farmer (gardener, rancher)
 👨‍🌾 man farmer (farmer, gardener, man, rancher)
 👩‍🌾 woman farmer (farmer, gardener, rancher, woman)
@@ -317,9 +302,9 @@
 🧑‍🎨 artist (palette)
 👨‍🎨 man artist (artist, man, palette)
 👩‍🎨 woman artist (artist, palette, woman)
-🧑‍✈️ pilot
-👨‍✈️ man pilot
-👩‍✈️ woman pilot
+🧑‍✈️ pilot (plane)
+👨‍✈️ man pilot (man, pilot, plane)
+👩‍✈️ woman pilot (pilot, plane, woman)
 🧑‍🚀 astronaut (rocket)
 👨‍🚀 man astronaut (astronaut, man, rocket)
 👩‍🚀 woman astronaut (astronaut, rocket, woman)
@@ -327,35 +312,32 @@
 👨‍🚒 man firefighter (firefighter, firetruck, man)
 👩‍🚒 woman firefighter (firefighter, firetruck, woman)
 👮 police officer (cop, officer, police)
-👮‍♂️ man police officer
-👮‍♀️ woman police officer
-🕵 detective (sleuth, spy)
+👮‍♂️ man police officer (cop, man, officer, police)
+👮‍♀️ woman police officer (cop, officer, police, woman)
+🕵️ detective (sleuth, spy)
 🕵️‍♂️ man detective
 🕵️‍♀️ woman detective
-💂 guard ()
-💂‍♂️ man guard
-💂‍♀️ woman guard
+💂 guard
+💂‍♂️ man guard (guard, man)
+💂‍♀️ woman guard (guard, woman)
 🥷 ninja (fighter, hidden, stealth)
 👷 construction worker (construction, hat, worker)
-👷‍♂️ man construction worker
-👷‍♀️ woman construction worker
-🫅 person with crown
-🤴 prince ()
+👷‍♂️ man construction worker (construction, man, worker)
+👷‍♀️ woman construction worker (construction, woman, worker)
+🤴 prince
 👸 princess (fairy tale, fantasy)
 👳 person wearing turban (turban)
-👳‍♂️ man wearing turban
-👳‍♀️ woman wearing turban
+👳‍♂️ man wearing turban (man, turban)
+👳‍♀️ woman wearing turban (turban, woman)
 👲 person with skullcap (cap, gua pi mao, hat, person, skullcap)
 🧕 woman with headscarf (headscarf, hijab, mantilla, tichel)
 🤵 person in tuxedo (groom, person, tuxedo)
-🤵‍♂️ man in tuxedo
-🤵‍♀️ woman in tuxedo
+🤵‍♂️ man in tuxedo (man, tuxedo)
+🤵‍♀️ woman in tuxedo (tuxedo, woman)
 👰 person with veil (bride, person, veil, wedding)
-👰‍♂️ man with veil
-👰‍♀️ woman with veil
+👰‍♂️ man with veil (man, veil)
+👰‍♀️ woman with veil (veil, woman)
 🤰 pregnant woman (pregnant, woman)
-🫃 pregnant man
-🫄 pregnant person
 🤱 breast-feeding (baby, breast, nursing)
 👩‍🍼 woman feeding baby (baby, feeding, nursing, woman)
 👨‍🍼 man feeding baby (baby, feeding, man, nursing)
@@ -365,48 +347,47 @@
 🤶 Mrs. Claus (celebration, Christmas, claus, mother, Mrs.)
 🧑‍🎄 mx claus (Claus, christmas)
 🦸 superhero (good, hero, heroine, superpower)
-🦸‍♂️ man superhero
-🦸‍♀️ woman superhero
+🦸‍♂️ man superhero (good, hero, man, superpower)
+🦸‍♀️ woman superhero (good, hero, heroine, superpower, woman)
 🦹 supervillain (criminal, evil, superpower, villain)
-🦹‍♂️ man supervillain
-🦹‍♀️ woman supervillain
+🦹‍♂️ man supervillain (criminal, evil, man, superpower, villain)
+🦹‍♀️ woman supervillain (criminal, evil, superpower, villain, woman)
 🧙 mage (sorcerer, sorceress, witch, wizard)
-🧙‍♂️ man mage
-🧙‍♀️ woman mage
+🧙‍♂️ man mage (sorcerer, wizard)
+🧙‍♀️ woman mage (sorceress, witch)
 🧚 fairy (Oberon, Puck, Titania)
-🧚‍♂️ man fairy
-🧚‍♀️ woman fairy
+🧚‍♂️ man fairy (Oberon, Puck)
+🧚‍♀️ woman fairy (Titania)
 🧛 vampire (Dracula, undead)
-🧛‍♂️ man vampire
-🧛‍♀️ woman vampire
+🧛‍♂️ man vampire (Dracula, undead)
+🧛‍♀️ woman vampire (undead)
 🧜 merperson (mermaid, merman, merwoman)
-🧜‍♂️ merman
-🧜‍♀️ mermaid
+🧜‍♂️ merman (Triton)
+🧜‍♀️ mermaid (merwoman)
 🧝 elf (magical)
-🧝‍♂️ man elf
-🧝‍♀️ woman elf
+🧝‍♂️ man elf (magical)
+🧝‍♀️ woman elf (magical)
 🧞 genie (djinn)
-🧞‍♂️ man genie
-🧞‍♀️ woman genie
+🧞‍♂️ man genie (djinn)
+🧞‍♀️ woman genie (djinn)
 🧟 zombie (undead, walking dead)
-🧟‍♂️ man zombie
-🧟‍♀️ woman zombie
-🧌 troll
+🧟‍♂️ man zombie (undead, walking dead)
+🧟‍♀️ woman zombie (undead, walking dead)
 💆 person getting massage (face, massage, salon)
-💆‍♂️ man getting massage
-💆‍♀️ woman getting massage
+💆‍♂️ man getting massage (face, man, massage)
+💆‍♀️ woman getting massage (face, massage, woman)
 💇 person getting haircut (barber, beauty, haircut, parlor)
-💇‍♂️ man getting haircut
-💇‍♀️ woman getting haircut
+💇‍♂️ man getting haircut (haircut, man)
+💇‍♀️ woman getting haircut (haircut, woman)
 🚶 person walking (hike, walk, walking)
-🚶‍♂️ man walking
-🚶‍♀️ woman walking
+🚶‍♂️ man walking (hike, man, walk)
+🚶‍♀️ woman walking (hike, walk, woman)
 🧍 person standing (stand, standing)
-🧍‍♂️ man standing
-🧍‍♀️ woman standing
+🧍‍♂️ man standing (man, standing)
+🧍‍♀️ woman standing (standing, woman)
 🧎 person kneeling (kneel, kneeling)
-🧎‍♂️ man kneeling
-🧎‍♀️ woman kneeling
+🧎‍♂️ man kneeling (kneeling, man)
+🧎‍♀️ woman kneeling (kneeling, woman)
 🧑‍🦯 person with white cane (accessibility, blind)
 👨‍🦯 man with white cane (accessibility, blind, man)
 👩‍🦯 woman with white cane (accessibility, blind, woman)
@@ -417,118 +398,114 @@
 👨‍🦽 man in manual wheelchair (accessibility, man, wheelchair)
 👩‍🦽 woman in manual wheelchair (accessibility, wheelchair, woman)
 🏃 person running (marathon, running)
-🏃‍♂️ man running
-🏃‍♀️ woman running
-💃 woman dancing (dancing, woman)
-🕺 man dancing (dance, man)
-🕴 person in suit levitating (business, person, suit)
+🏃‍♂️ man running (man, marathon, racing, running)
+🏃‍♀️ woman running (marathon, racing, running, woman)
+💃 woman dancing (dance, dancing, woman)
+🕺 man dancing (dance, dancing, man)
+🕴️ person in suit levitating (business, person, suit)
 👯 people with bunny ears (bunny ear, dancer, partying)
-👯‍♂️ men with bunny ears
-👯‍♀️ women with bunny ears
+👯‍♂️ men with bunny ears (bunny ear, dancer, men, partying)
+👯‍♀️ women with bunny ears (bunny ear, dancer, partying, women)
 🧖 person in steamy room (sauna, steam room)
-🧖‍♂️ man in steamy room
-🧖‍♀️ woman in steamy room
+🧖‍♂️ man in steamy room (sauna, steam room)
+🧖‍♀️ woman in steamy room (sauna, steam room)
 🧗 person climbing (climber)
-🧗‍♂️ man climbing
-🧗‍♀️ woman climbing
+🧗‍♂️ man climbing (climber)
+🧗‍♀️ woman climbing (climber)
 🤺 person fencing (fencer, fencing, sword)
 🏇 horse racing (horse, jockey, racehorse, racing)
-⛷ skier (ski, snow)
+⛷️ skier (ski, snow)
 🏂 snowboarder (ski, snow, snowboard)
-🏌 person golfing (ball, golf)
+🏌️ person golfing (ball, golf)
 🏌️‍♂️ man golfing
 🏌️‍♀️ woman golfing
 🏄 person surfing (surfing)
-🏄‍♂️ man surfing
-🏄‍♀️ woman surfing
+🏄‍♂️ man surfing (man, surfing)
+🏄‍♀️ woman surfing (surfing, woman)
 🚣 person rowing boat (boat, rowboat)
-🚣‍♂️ man rowing boat
-🚣‍♀️ woman rowing boat
+🚣‍♂️ man rowing boat (boat, man, rowboat)
+🚣‍♀️ woman rowing boat (boat, rowboat, woman)
 🏊 person swimming (swim)
-🏊‍♂️ man swimming
-🏊‍♀️ woman swimming
-⛹ person bouncing ball (ball)
+🏊‍♂️ man swimming (man, swim)
+🏊‍♀️ woman swimming (swim, woman)
+⛹️ person bouncing ball (ball)
 ⛹️‍♂️ man bouncing ball
 ⛹️‍♀️ woman bouncing ball
-🏋 person lifting weights (lifter, weight)
+🏋️ person lifting weights (lifter, weight)
 🏋️‍♂️ man lifting weights
 🏋️‍♀️ woman lifting weights
 🚴 person biking (bicycle, biking, cyclist)
-🚴‍♂️ man biking
-🚴‍♀️ woman biking
+🚴‍♂️ man biking (bicycle, biking, cyclist, man)
+🚴‍♀️ woman biking (bicycle, biking, cyclist, woman)
 🚵 person mountain biking (bicycle, bicyclist, bike, cyclist, mountain)
-🚵‍♂️ man mountain biking
-🚵‍♀️ woman mountain biking
+🚵‍♂️ man mountain biking (bicycle, bike, cyclist, man, mountain)
+🚵‍♀️ woman mountain biking (bicycle, bike, biking, cyclist, mountain, woman)
 🤸 person cartwheeling (cartwheel, gymnastics)
-🤸‍♂️ man cartwheeling
-🤸‍♀️ woman cartwheeling
+🤸‍♂️ man cartwheeling (cartwheel, gymnastics, man)
+🤸‍♀️ woman cartwheeling (cartwheel, gymnastics, woman)
 🤼 people wrestling (wrestle, wrestler)
-🤼‍♂️ men wrestling
-🤼‍♀️ women wrestling
+🤼‍♂️ men wrestling (men, wrestle)
+🤼‍♀️ women wrestling (women, wrestle)
 🤽 person playing water polo (polo, water)
-🤽‍♂️ man playing water polo
-🤽‍♀️ woman playing water polo
+🤽‍♂️ man playing water polo (man, water polo)
+🤽‍♀️ woman playing water polo (water polo, woman)
 🤾 person playing handball (ball, handball)
-🤾‍♂️ man playing handball
-🤾‍♀️ woman playing handball
+🤾‍♂️ man playing handball (handball, man)
+🤾‍♀️ woman playing handball (handball, woman)
 🤹 person juggling (balance, juggle, multitask, skill)
-🤹‍♂️ man juggling
-🤹‍♀️ woman juggling
+🤹‍♂️ man juggling (juggling, man, multitask)
+🤹‍♀️ woman juggling (juggling, multitask, woman)
 🧘 person in lotus position (meditation, yoga)
-🧘‍♂️ man in lotus position
-🧘‍♀️ woman in lotus position
+🧘‍♂️ man in lotus position (meditation, yoga)
+🧘‍♀️ woman in lotus position (meditation, yoga)
 🛀 person taking bath (bath, bathtub)
-🛌 person in bed (hotel, sleep)
+🛌 person in bed (good night, hotel, sleep)
 🧑‍🤝‍🧑 people holding hands (couple, hand, hold, holding hands, person)
 👭 women holding hands (couple, hand, holding hands, women)
 👫 woman and man holding hands (couple, hand, hold, holding hands, man, woman)
 👬 men holding hands (couple, Gemini, holding hands, man, men, twins, zodiac)
 💏 kiss (couple)
-👩‍❤️‍💋‍👨 kiss: woman, man
-👨‍❤️‍💋‍👨 kiss: man, man
-👩‍❤️‍💋‍👩 kiss: woman, woman
+👩‍❤️‍💋‍👨 kiss woman, man
+👨‍❤️‍💋‍👨 kiss man, man
+👩‍❤️‍💋‍👩 kiss woman, woman
 💑 couple with heart (couple, love)
-👩‍❤️‍👨 couple with heart: woman, man
-👨‍❤️‍👨 couple with heart: man, man
-👩‍❤️‍👩 couple with heart: woman, woman
-👪 family ()
-👨‍👩‍👦 family: man, woman, boy
-👨‍👩‍👧 family: man, woman, girl
-👨‍👩‍👧‍👦 family: man, woman, girl, boy
-👨‍👩‍👦‍👦 family: man, woman, boy, boy
-👨‍👩‍👧‍👧 family: man, woman, girl, girl
-👨‍👨‍👦 family: man, man, boy
-👨‍👨‍👧 family: man, man, girl
-👨‍👨‍👧‍👦 family: man, man, girl, boy
-👨‍👨‍👦‍👦 family: man, man, boy, boy
-👨‍👨‍👧‍👧 family: man, man, girl, girl
-👩‍👩‍👦 family: woman, woman, boy
-👩‍👩‍👧 family: woman, woman, girl
-👩‍👩‍👧‍👦 family: woman, woman, girl, boy
-👩‍👩‍👦‍👦 family: woman, woman, boy, boy
-👩‍👩‍👧‍👧 family: woman, woman, girl, girl
-👨‍👦 family: man, boy
-👨‍👦‍👦 family: man, boy, boy
-👨‍👧 family: man, girl
-👨‍👧‍👦 family: man, girl, boy
-👨‍👧‍👧 family: man, girl, girl
-👩‍👦 family: woman, boy
-👩‍👦‍👦 family: woman, boy, boy
-👩‍👧 family: woman, girl
-👩‍👧‍👦 family: woman, girl, boy
-👩‍👧‍👧 family: woman, girl, girl
-🗣 speaking head (face, head, silhouette, speak, speaking)
+👩‍❤️‍👨 couple with heart woman, man
+👨‍❤️‍👨 couple with heart man, man
+👩‍❤️‍👩 couple with heart woman, woman
+👪 family
+👨‍👩‍👦 family man, woman, boy
+👨‍👩‍👧 family man, woman, girl
+👨‍👩‍👧‍👦 family man, woman, girl, boy
+👨‍👩‍👦‍👦 family man, woman, boy, boy
+👨‍👩‍👧‍👧 family man, woman, girl, girl
+👨‍👨‍👦 family man, man, boy
+👨‍👨‍👧 family man, man, girl
+👨‍👨‍👧‍👦 family man, man, girl, boy
+👨‍👨‍👦‍👦 family man, man, boy, boy
+👨‍👨‍👧‍👧 family man, man, girl, girl
+👩‍👩‍👦 family woman, woman, boy
+👩‍👩‍👧 family woman, woman, girl
+👩‍👩‍👧‍👦 family woman, woman, girl, boy
+👩‍👩‍👦‍👦 family woman, woman, boy, boy
+👩‍👩‍👧‍👧 family woman, woman, girl, girl
+👨‍👦 family man, boy
+👨‍👦‍👦 family man, boy, boy
+👨‍👧 family man, girl
+👨‍👧‍👦 family man, girl, boy
+👨‍👧‍👧 family man, girl, girl
+👩‍👦 family woman, boy
+👩‍👦‍👦 family woman, boy, boy
+👩‍👧 family woman, girl
+👩‍👧‍👦 family woman, girl, boy
+👩‍👧‍👧 family woman, girl, girl
+🗣️ speaking head (face, head, silhouette, speak, speaking)
 👤 bust in silhouette (bust, silhouette)
 👥 busts in silhouette (bust, silhouette)
 🫂 people hugging (goodbye, hello, hug, thanks)
 👣 footprints (clothing, footprint, print)
-🦰 red hair (ginger, redhead)
-🦱 curly hair (afro, curly, ringlets)
-🦳 white hair (gray, hair, old, white)
-🦲 bald (chemotherapy, hairless, no hair, shaven)
 🐵 monkey face (face, monkey)
-🐒 monkey ()
-🦍 gorilla ()
+🐒 monkey
+🦍 gorilla
 🦧 orangutan (ape)
 🐶 dog face (dog, face, pet)
 🐕 dog (pet)
@@ -543,18 +520,18 @@
 🐈‍⬛ black cat (black, cat, unlucky)
 🦁 lion (face, Leo, zodiac)
 🐯 tiger face (face, tiger)
-🐅 tiger ()
-🐆 leopard ()
+🐅 tiger
+🐆 leopard
 🐴 horse face (face, horse)
 🐎 horse (equestrian, racehorse, racing)
 🦄 unicorn (face)
 🦓 zebra (stripe)
-🦌 deer ()
+🦌 deer
 🦬 bison (buffalo, herd, wisent)
 🐮 cow face (cow, face)
 🐂 ox (bull, Taurus, zodiac)
 🐃 water buffalo (buffalo, water)
-🐄 cow ()
+🐄 cow
 🐷 pig face (face, pig)
 🐖 pig (sow)
 🐗 boar (pig)
@@ -566,23 +543,23 @@
 🐫 two-hump camel (bactrian, camel, hump)
 🦙 llama (alpaca, guanaco, vicuña, wool)
 🦒 giraffe (spots)
-🐘 elephant ()
+🐘 elephant
 🦣 mammoth (extinction, large, tusk, woolly)
-🦏 rhinoceros ()
+🦏 rhinoceros
 🦛 hippopotamus (hippo)
 🐭 mouse face (face, mouse)
-🐁 mouse ()
-🐀 rat ()
+🐁 mouse
+🐀 rat
 🐹 hamster (face, pet)
 🐰 rabbit face (bunny, face, pet, rabbit)
 🐇 rabbit (bunny, pet)
-🐿 chipmunk (squirrel)
+🐿️ chipmunk (squirrel)
 🦫 beaver (dam)
 🦔 hedgehog (spiny)
 🦇 bat (vampire)
 🐻 bear (face)
-🐻‍❄️ polar bear
-🐨 koala (bear)
+🐻‍❄️ polar bear (arctic, bear, white)
+🐨 koala (face, marsupial)
 🐼 panda (face)
 🦥 sloth (lazy, slow)
 🦦 otter (fishing, playful)
@@ -596,9 +573,9 @@
 🐣 hatching chick (baby, bird, chick, hatching)
 🐤 baby chick (baby, bird, chick)
 🐥 front-facing baby chick (baby, bird, chick)
-🐦 bird ()
+🐦 bird
 🐧 penguin (bird)
-🕊 dove (bird, fly, peace)
+🕊️ dove (bird, fly, peace)
 🦅 eagle (bird)
 🦆 duck (bird)
 🦢 swan (bird, cygnet, ugly duckling)
@@ -609,7 +586,7 @@
 🦚 peacock (bird, ostentatious, peahen, proud)
 🦜 parrot (bird, pirate, talk)
 🐸 frog (face)
-🐊 crocodile ()
+🐊 crocodile
 🐢 turtle (terrapin, tortoise)
 🦎 lizard (reptile)
 🐍 snake (bearer, Ophiuchus, serpent, zodiac)
@@ -618,17 +595,16 @@
 🦕 sauropod (brachiosaurus, brontosaurus, diplodocus)
 🦖 T-Rex (Tyrannosaurus Rex)
 🐳 spouting whale (face, spouting, whale)
-🐋 whale ()
+🐋 whale
 🐬 dolphin (flipper)
-🦭 seal (sea Lion)
+🦭 seal (sea lion)
 🐟 fish (Pisces, zodiac)
 🐠 tropical fish (fish, tropical)
 🐡 blowfish (fish)
 🦈 shark (fish)
-🐙 octopus ()
+🐙 octopus
 🐚 spiral shell (shell, spiral)
-🪸 coral
-🐌 snail ()
+🐌 snail
 🦋 butterfly (insect, pretty)
 🐛 bug (insect)
 🐜 ant (insect)
@@ -637,8 +613,8 @@
 🐞 lady beetle (beetle, insect, ladybird, ladybug)
 🦗 cricket (grasshopper)
 🪳 cockroach (insect, pest, roach)
-🕷 spider (insect)
-🕸 spider web (spider, web)
+🕷️ spider (insect)
+🕸️ spider web (spider, web)
 🦂 scorpion (scorpio, Scorpio, zodiac)
 🦟 mosquito (disease, fever, malaria, pest, virus)
 🪰 fly (disease, maggot, pest, rotting)
@@ -647,8 +623,7 @@
 💐 bouquet (flower)
 🌸 cherry blossom (blossom, cherry, flower)
 💮 white flower (flower)
-🪷 lotus
-🏵 rosette (plant)
+🏵️ rosette (plant)
 🌹 rose (flower)
 🥀 wilted flower (flower, wilted)
 🌺 hibiscus (flower)
@@ -663,13 +638,11 @@
 🌵 cactus (plant)
 🌾 sheaf of rice (ear, grain, rice)
 🌿 herb (leaf)
-☘ shamrock (plant)
+☘️ shamrock (plant)
 🍀 four leaf clover (4, clover, four, four-leaf clover, leaf)
 🍁 maple leaf (falling, leaf, maple)
 🍂 fallen leaf (falling, leaf)
 🍃 leaf fluttering in wind (blow, flutter, leaf, wind)
-🪹 empty nest
-🪺 nest with eggs
 🍇 grapes (fruit, grape)
 🍈 melon (fruit)
 🍉 watermelon (fruit)
@@ -694,7 +667,7 @@
 🥔 potato (food, vegetable)
 🥕 carrot (food, vegetable)
 🌽 ear of corn (corn, ear, maize, maze)
-🌶 hot pepper (hot, pepper)
+🌶️ hot pepper (hot, pepper)
 🫑 bell pepper (capsicum, pepper, vegetable)
 🥒 cucumber (food, pickle, vegetable)
 🥬 leafy green (bok choy, cabbage, kale, lettuce)
@@ -703,7 +676,6 @@
 🧅 onion (flavoring)
 🍄 mushroom (toadstool)
 🥜 peanuts (food, nut, peanut, vegetable)
-🫘 beans
 🌰 chestnut (plant)
 🍞 bread (loaf)
 🥐 croissant (bread, breakfast, food, french, roll)
@@ -735,7 +707,7 @@
 🫕 fondue (cheese, chocolate, melted, pot, Swiss)
 🥣 bowl with spoon (breakfast, cereal, congee)
 🥗 green salad (food, green, salad)
-🍿 popcorn ()
+🍿 popcorn
 🧈 butter (dairy)
 🧂 salt (condiment, shaker)
 🥫 canned food (can)
@@ -748,7 +720,7 @@
 🍝 spaghetti (pasta)
 🍠 roasted sweet potato (potato, roasted, sweet)
 🍢 oden (kebab, seafood, skewer, stick)
-🍣 sushi ()
+🍣 sushi
 🍤 fried shrimp (fried, prawn, shrimp, tempura)
 🍥 fish cake with swirl (cake, fish, pastry, swirl)
 🥮 moon cake (autumn, festival, yuèbǐng)
@@ -789,44 +761,42 @@
 🍻 clinking beer mugs (bar, beer, clink, drink, mug)
 🥂 clinking glasses (celebrate, clink, drink, glass)
 🥃 tumbler glass (glass, liquor, shot, tumbler, whisky)
-🫗 pouring liquid
 🥤 cup with straw (juice, soda)
 🧋 bubble tea (bubble, milk, pearl, tea)
 🧃 beverage box (beverage, box, juice, straw, sweet)
 🧉 mate (drink)
 🧊 ice (cold, ice cube, iceberg)
 🥢 chopsticks (hashi)
-🍽 fork and knife with plate (cooking, fork, knife, plate)
+🍽️ fork and knife with plate (cooking, fork, knife, plate)
 🍴 fork and knife (cooking, cutlery, fork, knife)
 🥄 spoon (tableware)
 🔪 kitchen knife (cooking, hocho, knife, tool, weapon)
-🫙 jar
 🏺 amphora (Aquarius, cooking, drink, jug, zodiac)
 🌍 globe showing Europe-Africa (Africa, earth, Europe, globe, world)
 🌎 globe showing Americas (Americas, earth, globe, world)
 🌏 globe showing Asia-Australia (Asia, Australia, earth, globe, world)
 🌐 globe with meridians (earth, globe, meridians, world)
-🗺 world map (map, world)
+🗺️ world map (map, world)
 🗾 map of Japan (Japan, map)
 🧭 compass (magnetic, navigation, orienteering)
-🏔 snow-capped mountain (cold, mountain, snow)
-⛰ mountain ()
+🏔️ snow-capped mountain (cold, mountain, snow)
+⛰️ mountain
 🌋 volcano (eruption, mountain)
 🗻 mount fuji (fuji, mountain)
-🏕 camping ()
-🏖 beach with umbrella (beach, umbrella)
-🏜 desert ()
-🏝 desert island (desert, island)
-🏞 national park (park)
-🏟 stadium ()
-🏛 classical building (classical)
-🏗 building construction (construction)
+🏕️ camping
+🏖️ beach with umbrella (beach, umbrella)
+🏜️ desert
+🏝️ desert island (desert, island)
+🏞️ national park (park)
+🏟️ stadium
+🏛️ classical building (classical)
+🏗️ building construction (construction)
 🧱 brick (bricks, clay, mortar, wall)
 🪨 rock (boulder, heavy, solid, stone)
 🪵 wood (log, lumber, timber)
 🛖 hut (house, roundhouse, yurt)
-🏘 houses ()
-🏚 derelict house (derelict, house)
+🏘️ houses
+🏚️ derelict house (derelict, house)
 🏠 house (home)
 🏡 house with garden (garden, home, house)
 🏢 office building (building)
@@ -849,21 +819,20 @@
 🕌 mosque (islam, Muslim, religion)
 🛕 hindu temple (hindu, temple)
 🕍 synagogue (Jew, Jewish, religion, temple)
-⛩ shinto shrine (religion, shinto, shrine)
+⛩️ shinto shrine (religion, shinto, shrine)
 🕋 kaaba (islam, Muslim, religion)
-⛲ fountain ()
+⛲ fountain
 ⛺ tent (camping)
 🌁 foggy (fog)
 🌃 night with stars (night, star)
-🏙 cityscape (city)
+🏙️ cityscape (city)
 🌄 sunrise over mountains (morning, mountain, sun, sunrise)
 🌅 sunrise (morning, sun)
 🌆 cityscape at dusk (city, dusk, evening, landscape, sunset)
 🌇 sunset (dusk, sun)
 🌉 bridge at night (bridge, night)
-♨ hot springs (hot, hotsprings, springs, steaming)
+♨️ hot springs (hot, hotsprings, springs, steaming)
 🎠 carousel horse (carousel, horse)
-🛝 playground slide
 🎡 ferris wheel (amusement park, ferris, wheel)
 🎢 roller coaster (amusement park, coaster, roller)
 💈 barber pole (barber, haircut, pole)
@@ -897,8 +866,8 @@
 🚚 delivery truck (delivery, truck)
 🚛 articulated lorry (lorry, semi, truck)
 🚜 tractor (vehicle)
-🏎 racing car (car, racing)
-🏍 motorcycle (racing)
+🏎️ racing car (car, racing)
+🏍️ motorcycle (racing)
 🛵 motor scooter (motor, scooter)
 🦽 manual wheelchair (accessibility)
 🦼 motorized wheelchair (accessibility)
@@ -907,28 +876,26 @@
 🛴 kick scooter (kick, scooter)
 🛹 skateboard (board)
 🛼 roller skate (roller, skate)
-🚏 bus stop (bus, busstop, stop)
-🛣 motorway (highway, road)
-🛤 railway track (railway, train)
-🛢 oil drum (drum, oil)
+🚏 bus stop (bus, stop)
+🛣️ motorway (highway, road)
+🛤️ railway track (railway, train)
+🛢️ oil drum (drum, oil)
 ⛽ fuel pump (diesel, fuel, fuelpump, gas, pump, station)
-🛞 wheel
 🚨 police car light (beacon, car, light, police, revolving)
 🚥 horizontal traffic light (light, signal, traffic)
 🚦 vertical traffic light (light, signal, traffic)
 🛑 stop sign (octagonal, sign, stop)
 🚧 construction (barrier)
 ⚓ anchor (ship, tool)
-🛟 ring buoy
 ⛵ sailboat (boat, resort, sea, yacht)
 🛶 canoe (boat)
 🚤 speedboat (boat)
-🛳 passenger ship (passenger, ship)
-⛴ ferry (boat, passenger)
-🛥 motor boat (boat, motorboat)
+🛳️ passenger ship (passenger, ship)
+⛴️ ferry (boat, passenger)
+🛥️ motor boat (boat, motorboat)
 🚢 ship (boat, passenger)
-✈ airplane (aeroplane)
-🛩 small airplane (aeroplane, airplane)
+✈️ airplane (aeroplane)
+🛩️ small airplane (aeroplane, airplane)
 🛫 airplane departure (aeroplane, airplane, check-in, departure, departures)
 🛬 airplane arrival (aeroplane, airplane, arrivals, arriving, landing)
 🪂 parachute (hang-glide, parasail, skydive)
@@ -937,18 +904,18 @@
 🚟 suspension railway (railway, suspension)
 🚠 mountain cableway (cable, gondola, mountain)
 🚡 aerial tramway (aerial, cable, car, gondola, tramway)
-🛰 satellite (space)
+🛰️ satellite (space)
 🚀 rocket (space)
 🛸 flying saucer (UFO)
-🛎 bellhop bell (bell, bellhop, hotel)
+🛎️ bellhop bell (bell, bellhop, hotel)
 🧳 luggage (packing, travel)
 ⌛ hourglass done (sand, timer)
 ⏳ hourglass not done (hourglass, sand, timer)
 ⌚ watch (clock)
 ⏰ alarm clock (alarm, clock)
-⏱ stopwatch (clock)
-⏲ timer clock (clock, timer)
-🕰 mantelpiece clock (clock)
+⏱️ stopwatch (clock)
+⏲️ timer clock (clock, timer)
+🕰️ mantelpiece clock (clock)
 🕛 twelve o’clock (00, 12, 12:00, clock, o’clock, twelve)
 🕧 twelve-thirty (12, 12:30, clock, thirty, twelve)
 🕐 one o’clock (00, 1, 1:00, clock, o’clock, one)
@@ -985,38 +952,38 @@
 🌚 new moon face (face, moon)
 🌛 first quarter moon face (face, moon, quarter)
 🌜 last quarter moon face (face, moon, quarter)
-🌡 thermometer (weather)
-☀ sun (bright, rays, sunny)
+🌡️ thermometer (weather)
+☀️ sun (bright, rays, sunny)
 🌝 full moon face (bright, face, full, moon)
 🌞 sun with face (bright, face, sun)
 🪐 ringed planet (saturn, saturnine)
-⭐ star ()
+⭐ star
 🌟 glowing star (glittery, glow, shining, sparkle, star)
 🌠 shooting star (falling, shooting, star)
 🌌 milky way (space)
-☁ cloud (weather)
+☁️ cloud (weather)
 ⛅ sun behind cloud (cloud, sun)
-⛈ cloud with lightning and rain (cloud, rain, thunder)
-🌤 sun behind small cloud (cloud, sun)
-🌥 sun behind large cloud (cloud, sun)
-🌦 sun behind rain cloud (cloud, rain, sun)
-🌧 cloud with rain (cloud, rain)
-🌨 cloud with snow (cloud, cold, snow)
-🌩 cloud with lightning (cloud, lightning)
-🌪 tornado (cloud, whirlwind)
-🌫 fog (cloud)
-🌬 wind face (blow, cloud, face, wind)
+⛈️ cloud with lightning and rain (cloud, rain, thunder)
+🌤️ sun behind small cloud (cloud, sun)
+🌥️ sun behind large cloud (cloud, sun)
+🌦️ sun behind rain cloud (cloud, rain, sun)
+🌧️ cloud with rain (cloud, rain)
+🌨️ cloud with snow (cloud, cold, snow)
+🌩️ cloud with lightning (cloud, lightning)
+🌪️ tornado (cloud, whirlwind)
+🌫️ fog (cloud)
+🌬️ wind face (blow, cloud, face, wind)
 🌀 cyclone (dizzy, hurricane, twister, typhoon)
 🌈 rainbow (rain)
 🌂 closed umbrella (clothing, rain, umbrella)
-☂ umbrella (clothing, rain)
+☂️ umbrella (clothing, rain)
 ☔ umbrella with rain drops (clothing, drop, rain, umbrella)
-⛱ umbrella on ground (rain, sun, umbrella)
+⛱️ umbrella on ground (rain, sun, umbrella)
 ⚡ high voltage (danger, electric, lightning, voltage, zap)
-❄ snowflake (cold, snow)
-☃ snowman (cold, snow)
+❄️ snowflake (cold, snow)
+☃️ snowman (cold, snow)
 ⛄ snowman without snow (cold, snow, snowman)
-☄ comet (space)
+☄️ comet (space)
 🔥 fire (flame, tool)
 💧 droplet (cold, comic, drop, sweat)
 🌊 water wave (ocean, water, wave)
@@ -1038,10 +1005,10 @@
 🧧 red envelope (gift, good luck, hóngbāo, lai see, money)
 🎀 ribbon (celebration)
 🎁 wrapped gift (box, celebration, gift, present, wrapped)
-🎗 reminder ribbon (celebration, reminder, ribbon)
-🎟 admission tickets (admission, ticket)
+🎗️ reminder ribbon (celebration, reminder, ribbon)
+🎟️ admission tickets (admission, ticket)
 🎫 ticket (admission)
-🎖 military medal (celebration, medal, military)
+🎖️ military medal (celebration, medal, military)
 🏆 trophy (prize)
 🏅 sports medal (medal)
 🥇 1st place medal (first, gold, medal)
@@ -1067,7 +1034,7 @@
 🥋 martial arts uniform (judo, karate, martial arts, taekwondo, uniform)
 🥅 goal net (goal, net)
 ⛳ flag in hole (golf, hole)
-⛸ ice skate (ice, skate)
+⛸️ ice skate (ice, skate)
 🎣 fishing pole (fish, pole)
 🤿 diving mask (diving, scuba, snorkeling)
 🎽 running shirt (athletics, running, sash, shirt)
@@ -1081,33 +1048,31 @@
 🔮 crystal ball (ball, crystal, fairy tale, fantasy, fortune, tool)
 🪄 magic wand (magic, witch, wizard)
 🧿 nazar amulet (bead, charm, evil-eye, nazar, talisman)
-🪬 hamsa
 🎮 video game (controller, game)
-🕹 joystick (game, video game)
+🕹️ joystick (game, video game)
 🎰 slot machine (game, slot)
 🎲 game die (dice, die, game)
 🧩 puzzle piece (clue, interlocking, jigsaw, piece, puzzle)
 🧸 teddy bear (plaything, plush, stuffed, toy)
 🪅 piñata (celebration, party)
-🪩 mirror ball
 🪆 nesting dolls (doll, nesting, russia)
-♠ spade suit (card, game)
-♥ heart suit (card, game)
-♦ diamond suit (card, game)
-♣ club suit (card, game)
-♟ chess pawn (chess, dupe, expendable)
+♠️ spade suit (card, game)
+♥️ heart suit (card, game)
+♦️ diamond suit (card, game)
+♣️ club suit (card, game)
+♟️ chess pawn (chess, dupe, expendable)
 🃏 joker (card, game, wildcard)
 🀄 mahjong red dragon (game, mahjong, red)
 🎴 flower playing cards (card, flower, game, Japanese, playing)
 🎭 performing arts (art, mask, performing, theater, theatre)
-🖼 framed picture (art, frame, museum, painting, picture)
+🖼️ framed picture (art, frame, museum, painting, picture)
 🎨 artist palette (art, museum, painting, palette)
 🧵 thread (needle, sewing, spool, string)
 🪡 sewing needle (embroidery, needle, sewing, stitches, sutures, tailoring)
 🧶 yarn (ball, crochet, knit)
 🪢 knot (rope, tangled, tie, twine, twist)
 👓 glasses (clothing, eye, eyeglasses, eyewear)
-🕶 sunglasses (dark, eye, eyewear, glasses)
+🕶️ sunglasses (dark, eye, eyewear, glasses)
 🥽 goggles (eye protection, swimming, welding)
 🥼 lab coat (doctor, experiment, scientist)
 🦺 safety vest (emergency, safety, vest)
@@ -1129,7 +1094,7 @@
 👛 purse (clothing, coin)
 👜 handbag (bag, clothing, purse)
 👝 clutch bag (bag, clothing, pouch)
-🛍 shopping bags (bag, hotel, shopping)
+🛍️ shopping bags (bag, hotel, shopping)
 🎒 backpack (bag, rucksack, satchel, school)
 🩴 thong sandal (beach sandals, sandals, thong sandals, thongs, zōri)
 👞 man’s shoe (clothing, man, shoe)
@@ -1146,7 +1111,7 @@
 🎓 graduation cap (cap, celebration, clothing, graduation, hat)
 🧢 billed cap (baseball cap)
 🪖 military helmet (army, helmet, military, soldier, warrior)
-⛑ rescue worker’s helmet (aid, cross, face, hat, helmet)
+⛑️ rescue worker’s helmet (aid, cross, face, hat, helmet)
 📿 prayer beads (beads, clothing, necklace, prayer, religion)
 💄 lipstick (cosmetics, makeup)
 💍 ring (diamond)
@@ -1158,19 +1123,19 @@
 📢 loudspeaker (loud, public address)
 📣 megaphone (cheering)
 📯 postal horn (horn, post, postal)
-🔔 bell ()
+🔔 bell
 🔕 bell with slash (bell, forbidden, mute, quiet, silent)
 🎼 musical score (music, score)
 🎵 musical note (music, note)
 🎶 musical notes (music, note, notes)
-🎙 studio microphone (mic, microphone, music, studio)
-🎚 level slider (level, music, slider)
-🎛 control knobs (control, knobs, music)
+🎙️ studio microphone (mic, microphone, music, studio)
+🎚️ level slider (level, music, slider)
+🎛️ control knobs (control, knobs, music)
 🎤 microphone (karaoke, mic)
 🎧 headphone (earbud)
 📻 radio (video)
 🎷 saxophone (instrument, music, sax)
-🪗 accordion (accordian, concertina, squeeze box)
+🪗 accordion (concertina, squeeze box)
 🎸 guitar (instrument, music)
 🎹 musical keyboard (instrument, keyboard, music, piano)
 🎺 trumpet (instrument, music)
@@ -1180,27 +1145,26 @@
 🪘 long drum (beat, conga, drum, rhythm)
 📱 mobile phone (cell, mobile, phone, telephone)
 📲 mobile phone with arrow (arrow, cell, mobile, phone, receive)
-☎ telephone (phone)
+☎️ telephone (phone)
 📞 telephone receiver (phone, receiver, telephone)
-📟 pager ()
+📟 pager
 📠 fax machine (fax)
-🔋 battery ()
-🪫 low battery
+🔋 battery
 🔌 electric plug (electric, electricity, plug)
 💻 laptop (computer, pc, personal)
-🖥 desktop computer (computer, desktop)
-🖨 printer (computer)
-⌨ keyboard (computer)
-🖱 computer mouse (computer)
-🖲 trackball (computer)
+🖥️ desktop computer (computer, desktop)
+🖨️ printer (computer)
+⌨️ keyboard (computer)
+🖱️ computer mouse (computer)
+🖲️ trackball (computer)
 💽 computer disk (computer, disk, minidisk, optical)
 💾 floppy disk (computer, disk, floppy)
-💿 optical disk (cd, computer, disk, optical)
-📀 dvd (blu-ray, computer, disk, optical)
+💿 optical disk (CD, computer, disk, optical)
+📀 dvd (Blu-ray, computer, disk, DVD, optical)
 🧮 abacus (calculation)
 🎥 movie camera (camera, cinema, movie)
-🎞 film frames (cinema, film, frames, movie)
-📽 film projector (cinema, film, movie, projector, video)
+🎞️ film frames (cinema, film, frames, movie)
+📽️ film projector (cinema, film, movie, projector, video)
 🎬 clapper board (clapper, movie)
 📺 television (tv, video)
 📷 camera (video)
@@ -1209,7 +1173,7 @@
 📼 videocassette (tape, vhs, video)
 🔍 magnifying glass tilted left (glass, magnifying, search, tool)
 🔎 magnifying glass tilted right (glass, magnifying, search, tool)
-🕯 candle (light)
+🕯️ candle (light)
 💡 light bulb (bulb, comic, electric, idea, light)
 🔦 flashlight (electric, light, tool, torch)
 🏮 red paper lantern (bar, lantern, light, red)
@@ -1221,16 +1185,16 @@
 📘 blue book (blue, book)
 📙 orange book (book, orange)
 📚 books (book)
-📓 notebook ()
+📓 notebook
 📒 ledger (notebook)
 📃 page with curl (curl, document, page)
 📜 scroll (paper)
 📄 page facing up (document, page)
 📰 newspaper (news, paper)
-🗞 rolled-up newspaper (news, newspaper, paper, rolled)
+🗞️ rolled-up newspaper (news, newspaper, paper, rolled)
 📑 bookmark tabs (bookmark, mark, marker, tabs)
 🔖 bookmark (mark)
-🏷 label ()
+🏷️ label
 💰 money bag (bag, dollar, money, moneybag)
 🪙 coin (gold, metal, money, silver, treasure)
 💴 yen banknote (banknote, bill, currency, money, note, yen)
@@ -1241,7 +1205,7 @@
 💳 credit card (card, credit, money)
 🧾 receipt (accounting, bookkeeping, evidence, proof)
 💹 chart increasing with yen (chart, graph, growth, money, yen)
-✉ envelope (email, letter)
+✉️ envelope (email, letter)
 📧 e-mail (email, letter, mail)
 📨 incoming envelope (e-mail, email, envelope, incoming, letter, receive)
 📩 envelope with arrow (arrow, e-mail, email, envelope, outgoing)
@@ -1253,69 +1217,69 @@
 📬 open mailbox with raised flag (mail, mailbox, open, postbox)
 📭 open mailbox with lowered flag (lowered, mail, mailbox, open, postbox)
 📮 postbox (mail, mailbox)
-🗳 ballot box with ballot (ballot, box)
-✏ pencil ()
-✒ black nib (nib, pen)
-🖋 fountain pen (fountain, pen)
-🖊 pen (ballpoint)
-🖌 paintbrush (painting)
-🖍 crayon ()
+🗳️ ballot box with ballot (ballot, box)
+✏️ pencil
+✒️ black nib (nib, pen)
+🖋️ fountain pen (fountain, pen)
+🖊️ pen (ballpoint)
+🖌️ paintbrush (painting)
+🖍️ crayon
 📝 memo (pencil)
-💼 briefcase ()
+💼 briefcase
 📁 file folder (file, folder)
 📂 open file folder (file, folder, open)
-🗂 card index dividers (card, dividers, index)
+🗂️ card index dividers (card, dividers, index)
 📅 calendar (date)
 📆 tear-off calendar (calendar)
-🗒 spiral notepad (note, pad, spiral)
-🗓 spiral calendar (calendar, pad, spiral)
+🗒️ spiral notepad (note, pad, spiral)
+🗓️ spiral calendar (calendar, pad, spiral)
 📇 card index (card, index, rolodex)
 📈 chart increasing (chart, graph, growth, trend, upward)
 📉 chart decreasing (chart, down, graph, trend)
 📊 bar chart (bar, chart, graph)
-📋 clipboard ()
+📋 clipboard
 📌 pushpin (pin)
 📍 round pushpin (pin, pushpin)
-📎 paperclip ()
-🖇 linked paperclips (link, paperclip)
+📎 paperclip
+🖇️ linked paperclips (link, paperclip)
 📏 straight ruler (ruler, straight edge)
 📐 triangular ruler (ruler, set, triangle)
-✂ scissors (cutting, tool)
-🗃 card file box (box, card, file)
-🗄 file cabinet (cabinet, file, filing)
-🗑 wastebasket ()
+✂️ scissors (cutting, tool)
+🗃️ card file box (box, card, file)
+🗄️ file cabinet (cabinet, file, filing)
+🗑️ wastebasket
 🔒 locked (closed)
 🔓 unlocked (lock, open, unlock)
 🔏 locked with pen (ink, lock, nib, pen, privacy)
 🔐 locked with key (closed, key, lock, secure)
 🔑 key (lock, password)
-🗝 old key (clue, key, lock, old)
+🗝️ old key (clue, key, lock, old)
 🔨 hammer (tool)
 🪓 axe (chop, hatchet, split, wood)
-⛏ pick (mining, tool)
-⚒ hammer and pick (hammer, pick, tool)
-🛠 hammer and wrench (hammer, spanner, tool, wrench)
-🗡 dagger (knife, weapon)
-⚔ crossed swords (crossed, swords, weapon)
-🔫 water pistol (gun, handgun, pistol, revolver, tool, weapon)
+⛏️ pick (mining, tool)
+⚒️ hammer and pick (hammer, pick, tool)
+🛠️ hammer and wrench (hammer, spanner, tool, wrench)
+🗡️ dagger (knife, weapon)
+⚔️ crossed swords (crossed, swords, weapon)
+🔫 water pistol (gun, handgun, pistol, revolver, tool, water, weapon)
 🪃 boomerang (australia, rebound, repercussion)
 🏹 bow and arrow (archer, arrow, bow, Sagittarius, zodiac)
-🛡 shield (weapon)
+🛡️ shield (weapon)
 🪚 carpentry saw (carpenter, lumber, saw, tool)
 🔧 wrench (spanner, tool)
 🪛 screwdriver (screw, tool)
 🔩 nut and bolt (bolt, nut, tool)
-⚙ gear (cog, cogwheel, tool)
-🗜 clamp (compress, tool, vice)
-⚖ balance scale (balance, justice, Libra, scale, zodiac)
+⚙️ gear (cog, cogwheel, tool)
+🗜️ clamp (compress, tool, vice)
+⚖️ balance scale (balance, justice, Libra, scale, zodiac)
 🦯 white cane (accessibility, blind)
-🔗 link ()
-⛓ chains (chain)
+🔗 link
+⛓️ chains (chain)
 🪝 hook (catch, crook, curve, ensnare, selling point)
 🧰 toolbox (chest, mechanic, tool)
 🧲 magnet (attraction, horseshoe, magnetic)
 🪜 ladder (climb, rung, step)
-⚗ alembic (chemistry, tool)
+⚗️ alembic (chemistry, tool)
 🧪 test tube (chemist, chemistry, experiment, lab, science)
 🧫 petri dish (bacteria, biologist, biology, culture, lab)
 🧬 dna (biologist, evolution, gene, genetics, life)
@@ -1326,17 +1290,15 @@
 🩸 drop of blood (bleed, blood donation, injury, medicine, menstruation)
 💊 pill (doctor, medicine, sick)
 🩹 adhesive bandage (bandage)
-🩼 crutch
 🩺 stethoscope (doctor, heart, medicine)
-🩻 x-ray
-🚪 door ()
+🚪 door
 🛗 elevator (accessibility, hoist, lift)
 🪞 mirror (reflection, reflector, speculum)
 🪟 window (frame, fresh air, opening, transparent, view)
-🛏 bed (hotel, sleep)
-🛋 couch and lamp (couch, hotel, lamp)
+🛏️ bed (hotel, sleep)
+🛋️ couch and lamp (couch, hotel, lamp)
 🪑 chair (seat, sit)
-🚽 toilet ()
+🚽 toilet
 🪠 plunger (force cup, plumber, suction, toilet)
 🚿 shower (water)
 🛁 bathtub (bath)
@@ -1349,32 +1311,30 @@
 🧻 roll of paper (paper towels, toilet paper)
 🪣 bucket (cask, pail, vat)
 🧼 soap (bar, bathing, cleaning, lather, soapdish)
-🫧 bubbles
 🪥 toothbrush (bathroom, brush, clean, dental, hygiene, teeth)
 🧽 sponge (absorbing, cleaning, porous)
 🧯 fire extinguisher (extinguish, fire, quench)
 🛒 shopping cart (cart, shopping, trolley)
 🚬 cigarette (smoking)
-⚰ coffin (death)
+⚰️ coffin (death)
 🪦 headstone (cemetery, grave, graveyard, tombstone)
-⚱ funeral urn (ashes, death, funeral, urn)
+⚱️ funeral urn (ashes, death, funeral, urn)
 🗿 moai (face, moyai, statue)
 🪧 placard (demonstration, picket, protest, sign)
-🪪 identification card
-🏧 ATM sign (atm, automated, bank, teller)
+🏧 ATM sign (ATM, automated, bank, teller)
 🚮 litter in bin sign (litter, litter bin)
 🚰 potable water (drinking, potable, water)
 ♿ wheelchair symbol (access)
-🚹 men’s room (lavatory, man, restroom, wc)
-🚺 women’s room (lavatory, restroom, wc, woman)
-🚻 restroom (lavatory, WC)
+🚹 men’s room (bathroom, lavatory, man, restroom, toilet, WC)
+🚺 women’s room (bathroom, lavatory, restroom, toilet, WC, woman)
+🚻 restroom (bathroom, lavatory, toilet, WC)
 🚼 baby symbol (baby, changing)
-🚾 water closet (closet, lavatory, restroom, water, wc)
+🚾 water closet (bathroom, closet, lavatory, restroom, toilet, water, WC)
 🛂 passport control (control, passport)
-🛃 customs ()
+🛃 customs
 🛄 baggage claim (baggage, claim)
 🛅 left luggage (baggage, locker, luggage)
-⚠ warning ()
+⚠️ warning
 🚸 children crossing (child, crossing, pedestrian, traffic)
 ⛔ no entry (entry, forbidden, no, not, prohibited, traffic)
 🚫 prohibited (entry, forbidden, no, not)
@@ -1385,39 +1345,39 @@
 🚷 no pedestrians (forbidden, no, not, pedestrian, prohibited)
 📵 no mobile phones (cell, forbidden, mobile, no, phone)
 🔞 no one under eighteen (18, age restriction, eighteen, prohibited, underage)
-☢ radioactive (sign)
-☣ biohazard (sign)
-⬆ up arrow (arrow, cardinal, direction, north)
-↗ up-right arrow (arrow, direction, intercardinal, northeast)
-➡ right arrow (arrow, cardinal, direction, east)
-↘ down-right arrow (arrow, direction, intercardinal, southeast)
-⬇ down arrow (arrow, cardinal, direction, down, south)
-↙ down-left arrow (arrow, direction, intercardinal, southwest)
-⬅ left arrow (arrow, cardinal, direction, west)
-↖ up-left arrow (arrow, direction, intercardinal, northwest)
-↕ up-down arrow (arrow)
-↔ left-right arrow (arrow)
-↩ right arrow curving left (arrow)
-↪ left arrow curving right (arrow)
-⤴ right arrow curving up (arrow)
-⤵ right arrow curving down (arrow, down)
+☢️ radioactive (sign)
+☣️ biohazard (sign)
+⬆️ up arrow (arrow, cardinal, direction, north)
+↗️ up-right arrow (arrow, direction, intercardinal, northeast)
+➡️ right arrow (arrow, cardinal, direction, east)
+↘️ down-right arrow (arrow, direction, intercardinal, southeast)
+⬇️ down arrow (arrow, cardinal, direction, down, south)
+↙️ down-left arrow (arrow, direction, intercardinal, southwest)
+⬅️ left arrow (arrow, cardinal, direction, west)
+↖️ up-left arrow (arrow, direction, intercardinal, northwest)
+↕️ up-down arrow (arrow)
+↔️ left-right arrow (arrow)
+↩️ right arrow curving left (arrow)
+↪️ left arrow curving right (arrow)
+⤴️ right arrow curving up (arrow)
+⤵️ right arrow curving down (arrow, down)
 🔃 clockwise vertical arrows (arrow, clockwise, reload)
 🔄 counterclockwise arrows button (anticlockwise, arrow, counterclockwise, withershins)
-🔙 BACK arrow (arrow, back)
-🔚 END arrow (arrow, end)
-🔛 ON! arrow (arrow, mark, on)
-🔜 SOON arrow (arrow, soon)
-🔝 TOP arrow (arrow, top, up)
+🔙 BACK arrow (arrow, BACK)
+🔚 END arrow (arrow, END)
+🔛 ON! arrow (arrow, mark, ON, ON!)
+🔜 SOON arrow (arrow, SOON)
+🔝 TOP arrow (arrow, TOP, up)
 🛐 place of worship (religion, worship)
-⚛ atom symbol (atheist, atom)
-🕉 om (Hindu, religion)
-✡ star of David (David, Jew, Jewish, religion, star)
-☸ wheel of dharma (Buddhist, dharma, religion, wheel)
-☯ yin yang (religion, tao, taoist, yang, yin)
-✝ latin cross (Christian, cross, religion)
-☦ orthodox cross (Christian, cross, religion)
-☪ star and crescent (islam, Muslim, religion)
-☮ peace symbol (peace)
+⚛️ atom symbol (atheist, atom)
+🕉️ om (Hindu, religion)
+✡️ star of David (David, Jew, Jewish, religion, star)
+☸️ wheel of dharma (Buddhist, dharma, religion, wheel)
+☯️ yin yang (religion, tao, taoist, yang, yin)
+✝️ latin cross (Christian, cross, religion)
+☦️ orthodox cross (Christian, cross, religion)
+☪️ star and crescent (islam, Muslim, religion)
+☮️ peace symbol (peace)
 🕎 menorah (candelabrum, candlestick, religion)
 🔯 dotted six-pointed star (fortune, star)
 ♈ Aries (ram, zodiac)
@@ -1436,104 +1396,103 @@
 🔀 shuffle tracks button (arrow, crossed)
 🔁 repeat button (arrow, clockwise, repeat)
 🔂 repeat single button (arrow, clockwise, once)
-▶ play button (arrow, play, right, triangle)
+▶️ play button (arrow, play, right, triangle)
 ⏩ fast-forward button (arrow, double, fast, forward)
-⏭ next track button (arrow, next scene, next track, triangle)
-⏯ play or pause button (arrow, pause, play, right, triangle)
-◀ reverse button (arrow, left, reverse, triangle)
+⏭️ next track button (arrow, next scene, next track, triangle)
+⏯️ play or pause button (arrow, pause, play, right, triangle)
+◀️ reverse button (arrow, left, reverse, triangle)
 ⏪ fast reverse button (arrow, double, rewind)
-⏮ last track button (arrow, previous scene, previous track, triangle)
+⏮️ last track button (arrow, previous scene, previous track, triangle)
 🔼 upwards button (arrow, button, red)
 ⏫ fast up button (arrow, double)
 🔽 downwards button (arrow, button, down, red)
 ⏬ fast down button (arrow, double, down)
-⏸ pause button (bar, double, pause, vertical)
-⏹ stop button (square, stop)
-⏺ record button (circle, record)
-⏏ eject button (eject)
+⏸️ pause button (bar, double, pause, vertical)
+⏹️ stop button (square, stop)
+⏺️ record button (circle, record)
+⏏️ eject button (eject)
 🎦 cinema (camera, film, movie)
 🔅 dim button (brightness, dim, low)
 🔆 bright button (bright, brightness)
 📶 antenna bars (antenna, bar, cell, mobile, phone)
 📳 vibration mode (cell, mobile, mode, phone, telephone, vibration)
 📴 mobile phone off (cell, mobile, off, phone, telephone)
-♀ female sign (woman)
-♂ male sign (man)
-⚧ transgender symbol (transgender)
-✖ multiply (×, cancel, multiplication, sign, x)
+♀️ female sign (woman)
+♂️ male sign (man)
+⚧️ transgender symbol (transgender)
+✖️ multiply (×, cancel, multiplication, sign, x)
 ➕ plus (+, math, sign)
 ➖ minus (-, −, math, sign)
 ➗ divide (÷, division, math, sign)
-🟰 heavy equals sign
-♾ infinity (forever, unbounded, universal)
-‼ double exclamation mark (!, !!, bangbang, exclamation, mark)
-⁉ exclamation question mark (!, !?, ?, exclamation, interrobang, mark, punctuation, question)
+♾️ infinity (forever, unbounded, universal)
+‼️ double exclamation mark (!, !!, bangbang, exclamation, mark)
+⁉️ exclamation question mark (!, !?, ?, exclamation, interrobang, mark, punctuation, question)
 ❓ red question mark (?, mark, punctuation, question)
 ❔ white question mark (?, mark, outlined, punctuation, question)
 ❕ white exclamation mark (!, exclamation, mark, outlined, punctuation)
 ❗ red exclamation mark (!, exclamation, mark, punctuation)
-〰 wavy dash (dash, punctuation, wavy)
+〰️ wavy dash (dash, punctuation, wavy)
 💱 currency exchange (bank, currency, exchange, money)
 💲 heavy dollar sign (currency, dollar, money)
-⚕ medical symbol (aesculapius, medicine, staff)
-♻ recycling symbol (recycle)
-⚜ fleur-de-lis ()
+⚕️ medical symbol (aesculapius, medicine, staff)
+♻️ recycling symbol (recycle)
+⚜️ fleur-de-lis
 🔱 trident emblem (anchor, emblem, ship, tool, trident)
 📛 name badge (badge, name)
 🔰 Japanese symbol for beginner (beginner, chevron, Japanese, leaf)
 ⭕ hollow red circle (circle, large, o, red)
 ✅ check mark button (✓, button, check, mark)
-☑ check box with check (✓, box, check)
-✔ check mark (✓, check, mark)
+☑️ check box with check (✓, box, check)
+✔️ check mark (✓, check, mark)
 ❌ cross mark (×, cancel, cross, mark, multiplication, multiply, x)
 ❎ cross mark button (×, mark, square, x)
 ➰ curly loop (curl, loop)
 ➿ double curly loop (curl, double, loop)
-〽 part alternation mark (mark, part)
-✳ eight-spoked asterisk (*, asterisk)
-✴ eight-pointed star (*, star)
-❇ sparkle (*)
-© copyright (c)
-® registered (r)
-™ trade mark (mark, tm, trademark)
-#️⃣ keycap: #
-*️⃣ keycap: *
-0️⃣ keycap: 0
-1️⃣ keycap: 1
-2️⃣ keycap: 2
-3️⃣ keycap: 3
-4️⃣ keycap: 4
-5️⃣ keycap: 5
-6️⃣ keycap: 6
-7️⃣ keycap: 7
-8️⃣ keycap: 8
-9️⃣ keycap: 9
-🔟 keycap: 10
+〽️ part alternation mark (mark, part)
+✳️ eight-spoked asterisk (*, asterisk)
+✴️ eight-pointed star (*, star)
+❇️ sparkle (*)
+©️ copyright (C)
+®️ registered (R)
+™️ trade mark (mark, TM, trademark)
+#️⃣ keycap #
+*️⃣ keycap *
+0️⃣ keycap 0
+1️⃣ keycap 1
+2️⃣ keycap 2
+3️⃣ keycap 3
+4️⃣ keycap 4
+5️⃣ keycap 5
+6️⃣ keycap 6
+7️⃣ keycap 7
+8️⃣ keycap 8
+9️⃣ keycap 9
+🔟 keycap 10
 🔠 input latin uppercase (ABCD, input, latin, letters, uppercase)
 🔡 input latin lowercase (abcd, input, latin, letters, lowercase)
 🔢 input numbers (1234, input, numbers)
-🔣 input symbols (〒♪&amp;%, input)
+🔣 input symbols (〒♪&%, input)
 🔤 input latin letters (abc, alphabet, input, latin, letters)
-🅰 A button (blood type) (a, blood type)
-🆎 AB button (blood type) (ab, blood type)
-🅱 B button (blood type) (b, blood type)
-🆑 CL button (cl)
-🆒 COOL button (cool)
-🆓 FREE button (free)
-ℹ information (i)
-🆔 ID button (id, identity)
-Ⓜ circled M (circle, m)
-🆕 NEW button (new)
-🆖 NG button (ng)
-🅾 O button (blood type) (blood type, o)
+🅰️ A button (blood type) (A, blood type)
+🆎 AB button (blood type) (AB, blood type)
+🅱️ B button (blood type) (B, blood type)
+🆑 CL button (CL)
+🆒 COOL button (COOL)
+🆓 FREE button (FREE)
+ℹ️ information (i)
+🆔 ID button (ID, identity)
+Ⓜ️ circled M (circle, M)
+🆕 NEW button (NEW)
+🆖 NG button (NG)
+🅾️ O button (blood type) (blood type, O)
 🆗 OK button (OK)
-🅿 P button (parking)
-🆘 SOS button (help, sos)
-🆙 UP! button (mark, up)
-🆚 VS button (versus, vs)
+🅿️ P button (P, parking)
+🆘 SOS button (help, SOS)
+🆙 UP! button (mark, UP, UP!)
+🆚 VS button (versus, VS)
 🈁 Japanese “here” button (“here”, Japanese, katakana, ココ)
-🈂 Japanese “service charge” button (“service charge”, Japanese, katakana, サ)
-🈷 Japanese “monthly amount” button (“monthly amount”, ideograph, Japanese, 月)
+🈂️ Japanese “service charge” button (“service charge”, Japanese, katakana, サ)
+🈷️ Japanese “monthly amount” button (“monthly amount”, ideograph, Japanese, 月)
 🈶 Japanese “not free of charge” button (“not free of charge”, ideograph, Japanese, 有)
 🈯 Japanese “reserved” button (“reserved”, ideograph, Japanese, 指)
 🉐 Japanese “bargain” button (“bargain”, ideograph, Japanese, 得)
@@ -1544,8 +1503,8 @@
 🈸 Japanese “application” button (“application”, ideograph, Japanese, 申)
 🈴 Japanese “passing grade” button (“passing grade”, ideograph, Japanese, 合)
 🈳 Japanese “vacancy” button (“vacancy”, ideograph, Japanese, 空)
-㊗ Japanese “congratulations” button (“congratulations”, ideograph, Japanese, 祝)
-㊙ Japanese “secret” button (“secret”, ideograph, Japanese, 秘)
+㊗️ Japanese “congratulations” button (“congratulations”, ideograph, Japanese, 祝)
+㊙️ Japanese “secret” button (“secret”, ideograph, Japanese, 秘)
 🈺 Japanese “open for business” button (“open for business”, ideograph, Japanese, 営)
 🈵 Japanese “no vacancy” button (“no vacancy”, ideograph, Japanese, 満)
 🔴 red circle (circle, geometric, red)
@@ -1566,12 +1525,12 @@
 🟫 brown square (brown, square)
 ⬛ black large square (geometric, square)
 ⬜ white large square (geometric, square)
-◼ black medium square (geometric, square)
-◻ white medium square (geometric, square)
+◼️ black medium square (geometric, square)
+◻️ white medium square (geometric, square)
 ◾ black medium-small square (geometric, square)
 ◽ white medium-small square (geometric, square)
-▪ black small square (geometric, square)
-▫ white small square (geometric, square)
+▪️ black small square (geometric, square)
+▫️ white small square (geometric, square)
 🔶 large orange diamond (diamond, geometric, orange)
 🔷 large blue diamond (blue, diamond, geometric)
 🔸 small orange diamond (diamond, geometric, orange)
@@ -1586,268 +1545,268 @@
 🚩 triangular flag (post)
 🎌 crossed flags (celebration, cross, crossed, Japanese)
 🏴 black flag (waving)
-🏳 white flag (waving)
+🏳️ white flag (waving)
 🏳️‍🌈 rainbow flag
 🏳️‍⚧️ transgender flag
-🏴‍☠️ pirate flag
-🇦🇨 flag: Ascension Island
-🇦🇩 flag: Andorra
-🇦🇪 flag: United Arab Emirates
-🇦🇫 flag: Afghanistan
-🇦🇬 flag: Antigua &amp; Barbuda
-🇦🇮 flag: Anguilla
-🇦🇱 flag: Albania
-🇦🇲 flag: Armenia
-🇦🇴 flag: Angola
-🇦🇶 flag: Antarctica
-🇦🇷 flag: Argentina
-🇦🇸 flag: American Samoa
-🇦🇹 flag: Austria
-🇦🇺 flag: Australia
-🇦🇼 flag: Aruba
-🇦🇽 flag: Åland Islands
-🇦🇿 flag: Azerbaijan
-🇧🇦 flag: Bosnia &amp; Herzegovina
-🇧🇧 flag: Barbados
-🇧🇩 flag: Bangladesh
-🇧🇪 flag: Belgium
-🇧🇫 flag: Burkina Faso
-🇧🇬 flag: Bulgaria
-🇧🇭 flag: Bahrain
-🇧🇮 flag: Burundi
-🇧🇯 flag: Benin
-🇧🇱 flag: St. Barthélemy
-🇧🇲 flag: Bermuda
-🇧🇳 flag: Brunei
-🇧🇴 flag: Bolivia
-🇧🇶 flag: Caribbean Netherlands
-🇧🇷 flag: Brazil
-🇧🇸 flag: Bahamas
-🇧🇹 flag: Bhutan
-🇧🇻 flag: Bouvet Island
-🇧🇼 flag: Botswana
-🇧🇾 flag: Belarus
-🇧🇿 flag: Belize
-🇨🇦 flag: Canada
-🇨🇨 flag: Cocos (Keeling) Islands
-🇨🇩 flag: Congo - Kinshasa
-🇨🇫 flag: Central African Republic
-🇨🇬 flag: Congo - Brazzaville
-🇨🇭 flag: Switzerland
-🇨🇮 flag: Côte d’Ivoire
-🇨🇰 flag: Cook Islands
-🇨🇱 flag: Chile
-🇨🇲 flag: Cameroon
-🇨🇳 flag: China
-🇨🇴 flag: Colombia
-🇨🇵 flag: Clipperton Island
-🇨🇷 flag: Costa Rica
-🇨🇺 flag: Cuba
-🇨🇻 flag: Cape Verde
-🇨🇼 flag: Curaçao
-🇨🇽 flag: Christmas Island
-🇨🇾 flag: Cyprus
-🇨🇿 flag: Czechia
-🇩🇪 flag: Germany
-🇩🇬 flag: Diego Garcia
-🇩🇯 flag: Djibouti
-🇩🇰 flag: Denmark
-🇩🇲 flag: Dominica
-🇩🇴 flag: Dominican Republic
-🇩🇿 flag: Algeria
-🇪🇦 flag: Ceuta &amp; Melilla
-🇪🇨 flag: Ecuador
-🇪🇪 flag: Estonia
-🇪🇬 flag: Egypt
-🇪🇭 flag: Western Sahara
-🇪🇷 flag: Eritrea
-🇪🇸 flag: Spain
-🇪🇹 flag: Ethiopia
-🇪🇺 flag: European Union
-🇫🇮 flag: Finland
-🇫🇯 flag: Fiji
-🇫🇰 flag: Falkland Islands
-🇫🇲 flag: Micronesia
-🇫🇴 flag: Faroe Islands
-🇫🇷 flag: France
-🇬🇦 flag: Gabon
-🇬🇧 flag: United Kingdom
-🇬🇩 flag: Grenada
-🇬🇪 flag: Georgia
-🇬🇫 flag: French Guiana
-🇬🇬 flag: Guernsey
-🇬🇭 flag: Ghana
-🇬🇮 flag: Gibraltar
-🇬🇱 flag: Greenland
-🇬🇲 flag: Gambia
-🇬🇳 flag: Guinea
-🇬🇵 flag: Guadeloupe
-🇬🇶 flag: Equatorial Guinea
-🇬🇷 flag: Greece
-🇬🇸 flag: South Georgia &amp; South Sandwich Islands
-🇬🇹 flag: Guatemala
-🇬🇺 flag: Guam
-🇬🇼 flag: Guinea-Bissau
-🇬🇾 flag: Guyana
-🇭🇰 flag: Hong Kong SAR China
-🇭🇲 flag: Heard &amp; McDonald Islands
-🇭🇳 flag: Honduras
-🇭🇷 flag: Croatia
-🇭🇹 flag: Haiti
-🇭🇺 flag: Hungary
-🇮🇨 flag: Canary Islands
-🇮🇩 flag: Indonesia
-🇮🇪 flag: Ireland
-🇮🇱 flag: Israel
-🇮🇲 flag: Isle of Man
-🇮🇳 flag: India
-🇮🇴 flag: British Indian Ocean Territory
-🇮🇶 flag: Iraq
-🇮🇷 flag: Iran
-🇮🇸 flag: Iceland
-🇮🇹 flag: Italy
-🇯🇪 flag: Jersey
-🇯🇲 flag: Jamaica
-🇯🇴 flag: Jordan
-🇯🇵 flag: Japan
-🇰🇪 flag: Kenya
-🇰🇬 flag: Kyrgyzstan
-🇰🇭 flag: Cambodia
-🇰🇮 flag: Kiribati
-🇰🇲 flag: Comoros
-🇰🇳 flag: St. Kitts &amp; Nevis
-🇰🇵 flag: North Korea
-🇰🇷 flag: South Korea
-🇰🇼 flag: Kuwait
-🇰🇾 flag: Cayman Islands
-🇰🇿 flag: Kazakhstan
-🇱🇦 flag: Laos
-🇱🇧 flag: Lebanon
-🇱🇨 flag: St. Lucia
-🇱🇮 flag: Liechtenstein
-🇱🇰 flag: Sri Lanka
-🇱🇷 flag: Liberia
-🇱🇸 flag: Lesotho
-🇱🇹 flag: Lithuania
-🇱🇺 flag: Luxembourg
-🇱🇻 flag: Latvia
-🇱🇾 flag: Libya
-🇲🇦 flag: Morocco
-🇲🇨 flag: Monaco
-🇲🇩 flag: Moldova
-🇲🇪 flag: Montenegro
-🇲🇫 flag: St. Martin
-🇲🇬 flag: Madagascar
-🇲🇭 flag: Marshall Islands
-🇲🇰 flag: North Macedonia
-🇲🇱 flag: Mali
-🇲🇲 flag: Myanmar (Burma)
-🇲🇳 flag: Mongolia
-🇲🇴 flag: Macao SAR China
-🇲🇵 flag: Northern Mariana Islands
-🇲🇶 flag: Martinique
-🇲🇷 flag: Mauritania
-🇲🇸 flag: Montserrat
-🇲🇹 flag: Malta
-🇲🇺 flag: Mauritius
-🇲🇻 flag: Maldives
-🇲🇼 flag: Malawi
-🇲🇽 flag: Mexico
-🇲🇾 flag: Malaysia
-🇲🇿 flag: Mozambique
-🇳🇦 flag: Namibia
-🇳🇨 flag: New Caledonia
-🇳🇪 flag: Niger
-🇳🇫 flag: Norfolk Island
-🇳🇬 flag: Nigeria
-🇳🇮 flag: Nicaragua
-🇳🇱 flag: Netherlands
-🇳🇴 flag: Norway
-🇳🇵 flag: Nepal
-🇳🇷 flag: Nauru
-🇳🇺 flag: Niue
-🇳🇿 flag: New Zealand
-🇴🇲 flag: Oman
-🇵🇦 flag: Panama
-🇵🇪 flag: Peru
-🇵🇫 flag: French Polynesia
-🇵🇬 flag: Papua New Guinea
-🇵🇭 flag: Philippines
-🇵🇰 flag: Pakistan
-🇵🇱 flag: Poland
-🇵🇲 flag: St. Pierre &amp; Miquelon
-🇵🇳 flag: Pitcairn Islands
-🇵🇷 flag: Puerto Rico
-🇵🇸 flag: Palestinian Territories
-🇵🇹 flag: Portugal
-🇵🇼 flag: Palau
-🇵🇾 flag: Paraguay
-🇶🇦 flag: Qatar
-🇷🇪 flag: Réunion
-🇷🇴 flag: Romania
-🇷🇸 flag: Serbia
-🇷🇺 flag: Russia
-🇷🇼 flag: Rwanda
-🇸🇦 flag: Saudi Arabia
-🇸🇧 flag: Solomon Islands
-🇸🇨 flag: Seychelles
-🇸🇩 flag: Sudan
-🇸🇪 flag: Sweden
-🇸🇬 flag: Singapore
-🇸🇭 flag: St. Helena
-🇸🇮 flag: Slovenia
-🇸🇯 flag: Svalbard &amp; Jan Mayen
-🇸🇰 flag: Slovakia
-🇸🇱 flag: Sierra Leone
-🇸🇲 flag: San Marino
-🇸🇳 flag: Senegal
-🇸🇴 flag: Somalia
-🇸🇷 flag: Suriname
-🇸🇸 flag: South Sudan
-🇸🇹 flag: São Tomé &amp; Príncipe
-🇸🇻 flag: El Salvador
-🇸🇽 flag: Sint Maarten
-🇸🇾 flag: Syria
-🇸🇿 flag: Eswatini
-🇹🇦 flag: Tristan da Cunha
-🇹🇨 flag: Turks &amp; Caicos Islands
-🇹🇩 flag: Chad
-🇹🇫 flag: French Southern Territories
-🇹🇬 flag: Togo
-🇹🇭 flag: Thailand
-🇹🇯 flag: Tajikistan
-🇹🇰 flag: Tokelau
-🇹🇱 flag: Timor-Leste
-🇹🇲 flag: Turkmenistan
-🇹🇳 flag: Tunisia
-🇹🇴 flag: Tonga
-🇹🇷 flag: Turkey
-🇹🇹 flag: Trinidad &amp; Tobago
-🇹🇻 flag: Tuvalu
-🇹🇼 flag: Taiwan
-🇹🇿 flag: Tanzania
-🇺🇦 flag: Ukraine
-🇺🇬 flag: Uganda
-🇺🇲 flag: U.S. Outlying Islands
-🇺🇳 flag: United Nations
-🇺🇸 flag: United States
-🇺🇾 flag: Uruguay
-🇺🇿 flag: Uzbekistan
-🇻🇦 flag: Vatican City
-🇻🇨 flag: St. Vincent &amp; Grenadines
-🇻🇪 flag: Venezuela
-🇻🇬 flag: British Virgin Islands
-🇻🇮 flag: U.S. Virgin Islands
-🇻🇳 flag: Vietnam
-🇻🇺 flag: Vanuatu
-🇼🇫 flag: Wallis &amp; Futuna
-🇼🇸 flag: Samoa
-🇽🇰 flag: Kosovo
-🇾🇪 flag: Yemen
-🇾🇹 flag: Mayotte
-🇿🇦 flag: South Africa
-🇿🇲 flag: Zambia
-🇿🇼 flag: Zimbabwe
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 flag: England
-🏴󠁧󠁢󠁳󠁣󠁴󠁿 flag: Scotland
-🏴󠁧󠁢󠁷󠁬󠁳󠁿 flag: Wales
+🏴‍☠️ pirate flag (Jolly Roger, pirate, plunder, treasure)
+🇦🇨 flag Ascension Island
+🇦🇩 flag Andorra
+🇦🇪 flag United Arab Emirates
+🇦🇫 flag Afghanistan
+🇦🇬 flag Antigua & Barbuda
+🇦🇮 flag Anguilla
+🇦🇱 flag Albania
+🇦🇲 flag Armenia
+🇦🇴 flag Angola
+🇦🇶 flag Antarctica
+🇦🇷 flag Argentina
+🇦🇸 flag American Samoa
+🇦🇹 flag Austria
+🇦🇺 flag Australia
+🇦🇼 flag Aruba
+🇦🇽 flag Åland Islands
+🇦🇿 flag Azerbaijan
+🇧🇦 flag Bosnia & Herzegovina
+🇧🇧 flag Barbados
+🇧🇩 flag Bangladesh
+🇧🇪 flag Belgium
+🇧🇫 flag Burkina Faso
+🇧🇬 flag Bulgaria
+🇧🇭 flag Bahrain
+🇧🇮 flag Burundi
+🇧🇯 flag Benin
+🇧🇱 flag St. Barthélemy
+🇧🇲 flag Bermuda
+🇧🇳 flag Brunei
+🇧🇴 flag Bolivia
+🇧🇶 flag Caribbean Netherlands
+🇧🇷 flag Brazil
+🇧🇸 flag Bahamas
+🇧🇹 flag Bhutan
+🇧🇻 flag Bouvet Island
+🇧🇼 flag Botswana
+🇧🇾 flag Belarus
+🇧🇿 flag Belize
+🇨🇦 flag Canada
+🇨🇨 flag Cocos (Keeling) Islands
+🇨🇩 flag Congo - Kinshasa
+🇨🇫 flag Central African Republic
+🇨🇬 flag Congo - Brazzaville
+🇨🇭 flag Switzerland
+🇨🇮 flag Côte d’Ivoire
+🇨🇰 flag Cook Islands
+🇨🇱 flag Chile
+🇨🇲 flag Cameroon
+🇨🇳 flag China
+🇨🇴 flag Colombia
+🇨🇵 flag Clipperton Island
+🇨🇷 flag Costa Rica
+🇨🇺 flag Cuba
+🇨🇻 flag Cape Verde
+🇨🇼 flag Curaçao
+🇨🇽 flag Christmas Island
+🇨🇾 flag Cyprus
+🇨🇿 flag Czechia
+🇩🇪 flag Germany
+🇩🇬 flag Diego Garcia
+🇩🇯 flag Djibouti
+🇩🇰 flag Denmark
+🇩🇲 flag Dominica
+🇩🇴 flag Dominican Republic
+🇩🇿 flag Algeria
+🇪🇦 flag Ceuta & Melilla
+🇪🇨 flag Ecuador
+🇪🇪 flag Estonia
+🇪🇬 flag Egypt
+🇪🇭 flag Western Sahara
+🇪🇷 flag Eritrea
+🇪🇸 flag Spain
+🇪🇹 flag Ethiopia
+🇪🇺 flag European Union
+🇫🇮 flag Finland
+🇫🇯 flag Fiji
+🇫🇰 flag Falkland Islands
+🇫🇲 flag Micronesia
+🇫🇴 flag Faroe Islands
+🇫🇷 flag France
+🇬🇦 flag Gabon
+🇬🇧 flag United Kingdom
+🇬🇩 flag Grenada
+🇬🇪 flag Georgia
+🇬🇫 flag French Guiana
+🇬🇬 flag Guernsey
+🇬🇭 flag Ghana
+🇬🇮 flag Gibraltar
+🇬🇱 flag Greenland
+🇬🇲 flag Gambia
+🇬🇳 flag Guinea
+🇬🇵 flag Guadeloupe
+🇬🇶 flag Equatorial Guinea
+🇬🇷 flag Greece
+🇬🇸 flag South Georgia & South Sandwich Islands
+🇬🇹 flag Guatemala
+🇬🇺 flag Guam
+🇬🇼 flag Guinea-Bissau
+🇬🇾 flag Guyana
+🇭🇰 flag Hong Kong SAR China
+🇭🇲 flag Heard & McDonald Islands
+🇭🇳 flag Honduras
+🇭🇷 flag Croatia
+🇭🇹 flag Haiti
+🇭🇺 flag Hungary
+🇮🇨 flag Canary Islands
+🇮🇩 flag Indonesia
+🇮🇪 flag Ireland
+🇮🇱 flag Israel
+🇮🇲 flag Isle of Man
+🇮🇳 flag India
+🇮🇴 flag British Indian Ocean Territory
+🇮🇶 flag Iraq
+🇮🇷 flag Iran
+🇮🇸 flag Iceland
+🇮🇹 flag Italy
+🇯🇪 flag Jersey
+🇯🇲 flag Jamaica
+🇯🇴 flag Jordan
+🇯🇵 flag Japan
+🇰🇪 flag Kenya
+🇰🇬 flag Kyrgyzstan
+🇰🇭 flag Cambodia
+🇰🇮 flag Kiribati
+🇰🇲 flag Comoros
+🇰🇳 flag St. Kitts & Nevis
+🇰🇵 flag North Korea
+🇰🇷 flag South Korea
+🇰🇼 flag Kuwait
+🇰🇾 flag Cayman Islands
+🇰🇿 flag Kazakhstan
+🇱🇦 flag Laos
+🇱🇧 flag Lebanon
+🇱🇨 flag St. Lucia
+🇱🇮 flag Liechtenstein
+🇱🇰 flag Sri Lanka
+🇱🇷 flag Liberia
+🇱🇸 flag Lesotho
+🇱🇹 flag Lithuania
+🇱🇺 flag Luxembourg
+🇱🇻 flag Latvia
+🇱🇾 flag Libya
+🇲🇦 flag Morocco
+🇲🇨 flag Monaco
+🇲🇩 flag Moldova
+🇲🇪 flag Montenegro
+🇲🇫 flag St. Martin
+🇲🇬 flag Madagascar
+🇲🇭 flag Marshall Islands
+🇲🇰 flag North Macedonia
+🇲🇱 flag Mali
+🇲🇲 flag Myanmar (Burma)
+🇲🇳 flag Mongolia
+🇲🇴 flag Macao SAR China
+🇲🇵 flag Northern Mariana Islands
+🇲🇶 flag Martinique
+🇲🇷 flag Mauritania
+🇲🇸 flag Montserrat
+🇲🇹 flag Malta
+🇲🇺 flag Mauritius
+🇲🇻 flag Maldives
+🇲🇼 flag Malawi
+🇲🇽 flag Mexico
+🇲🇾 flag Malaysia
+🇲🇿 flag Mozambique
+🇳🇦 flag Namibia
+🇳🇨 flag New Caledonia
+🇳🇪 flag Niger
+🇳🇫 flag Norfolk Island
+🇳🇬 flag Nigeria
+🇳🇮 flag Nicaragua
+🇳🇱 flag Netherlands
+🇳🇴 flag Norway
+🇳🇵 flag Nepal
+🇳🇷 flag Nauru
+🇳🇺 flag Niue
+🇳🇿 flag New Zealand
+🇴🇲 flag Oman
+🇵🇦 flag Panama
+🇵🇪 flag Peru
+🇵🇫 flag French Polynesia
+🇵🇬 flag Papua New Guinea
+🇵🇭 flag Philippines
+🇵🇰 flag Pakistan
+🇵🇱 flag Poland
+🇵🇲 flag St. Pierre & Miquelon
+🇵🇳 flag Pitcairn Islands
+🇵🇷 flag Puerto Rico
+🇵🇸 flag Palestinian Territories
+🇵🇹 flag Portugal
+🇵🇼 flag Palau
+🇵🇾 flag Paraguay
+🇶🇦 flag Qatar
+🇷🇪 flag Réunion
+🇷🇴 flag Romania
+🇷🇸 flag Serbia
+🇷🇺 flag Russia
+🇷🇼 flag Rwanda
+🇸🇦 flag Saudi Arabia
+🇸🇧 flag Solomon Islands
+🇸🇨 flag Seychelles
+🇸🇩 flag Sudan
+🇸🇪 flag Sweden
+🇸🇬 flag Singapore
+🇸🇭 flag St. Helena
+🇸🇮 flag Slovenia
+🇸🇯 flag Svalbard & Jan Mayen
+🇸🇰 flag Slovakia
+🇸🇱 flag Sierra Leone
+🇸🇲 flag San Marino
+🇸🇳 flag Senegal
+🇸🇴 flag Somalia
+🇸🇷 flag Suriname
+🇸🇸 flag South Sudan
+🇸🇹 flag São Tomé & Príncipe
+🇸🇻 flag El Salvador
+🇸🇽 flag Sint Maarten
+🇸🇾 flag Syria
+🇸🇿 flag Eswatini
+🇹🇦 flag Tristan da Cunha
+🇹🇨 flag Turks & Caicos Islands
+🇹🇩 flag Chad
+🇹🇫 flag French Southern Territories
+🇹🇬 flag Togo
+🇹🇭 flag Thailand
+🇹🇯 flag Tajikistan
+🇹🇰 flag Tokelau
+🇹🇱 flag Timor-Leste
+🇹🇲 flag Turkmenistan
+🇹🇳 flag Tunisia
+🇹🇴 flag Tonga
+🇹🇷 flag Turkey
+🇹🇹 flag Trinidad & Tobago
+🇹🇻 flag Tuvalu
+🇹🇼 flag Taiwan
+🇹🇿 flag Tanzania
+🇺🇦 flag Ukraine
+🇺🇬 flag Uganda
+🇺🇲 flag U.S. Outlying Islands
+🇺🇳 flag United Nations
+🇺🇸 flag United States
+🇺🇾 flag Uruguay
+🇺🇿 flag Uzbekistan
+🇻🇦 flag Vatican City
+🇻🇨 flag St. Vincent & Grenadines
+🇻🇪 flag Venezuela
+🇻🇬 flag British Virgin Islands
+🇻🇮 flag U.S. Virgin Islands
+🇻🇳 flag Vietnam
+🇻🇺 flag Vanuatu
+🇼🇫 flag Wallis & Futuna
+🇼🇸 flag Samoa
+🇽🇰 flag Kosovo
+🇾🇪 flag Yemen
+🇾🇹 flag Mayotte
+🇿🇦 flag South Africa
+🇿🇲 flag Zambia
+🇿🇼 flag Zimbabwe
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 flag England
+🏴󠁧󠁢󠁳󠁣󠁴󠁿 flag Scotland
+🏴󠁧󠁢󠁷󠁬󠁳󠁿 flag Wales

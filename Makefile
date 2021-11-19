@@ -24,5 +24,13 @@ libxft-bgra.patch:
 	curl -o $@ https://gitlab.freedesktop.org/xorg/lib/libxft/-/merge_requests/1.patch
 
 emoji.txt:
-	curl https://raw.githubusercontent.com/fdw/rofimoji/main/src/picker/data/emojis.csv \
-		| sed -E 's,<\/?small>,,g' > $@
+	[ -d emojilib ] && git -C emojilib pull || git clone https://github.com/muan/emojilib
+	@# Not using the default file because it contains manually edited keywords
+	@# and I just want the official CLDR keywords, which the `i18n` command
+	@# allows to fetch unaltered.
+	@#
+	@# This script is only available when cloning the repo which is why I don't
+	@# install it from npm.
+	npm --prefix emojilib run i18n en en
+	npm install
+	node fetch-emoji > $@
