@@ -4,12 +4,18 @@ PROGDIR=$(dirname "$(readlink -f "$0")")
 
 # Fix a bug where active window is lost if dmenu pops under cursor
 active_window=$(xdotool getactivewindow)
-emoji=$(cat "$PROGDIR/emoji.txt" | dmenu -i -l 30 | sed 's/ .*//')
+
+# Replace the variant selector code point that dmenu can't display
+emoji=$(cat "$PROGDIR/emoji.txt" | sed $'s/\ufe0f//' | dmenu -i -l 30 | sed 's/ .*//')
+
 xdotool windowactivate "$active_window"
 
 if [ -z "$emoji" ]; then
     exit
 fi
+
+# Bring the variant selector code point back
+emoji=$(grep "^$emoji" "$PROGDIR/emoji.txt" | sed 's/ .*//')
 
 if [ "$1" = copy ]; then
     printf "$emoji" | xclip -selection clipboard
